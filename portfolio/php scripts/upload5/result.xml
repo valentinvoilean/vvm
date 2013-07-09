@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.1/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.1/"
+>
+
+<channel>
+	<wp:wxr_version>1.1</wp:wxr_version>
+	
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login>admin</wp:author_login><wp:author_email>nick@trialfacts.com</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[Nick]]></wp:author_first_name><wp:author_last_name><![CDATA[Karrasch]]></wp:author_last_name></wp:author>
+
+
+	<generator>http://wordpress.org/?v=3.1.3</generator>	<item>		<title>Zoledronate in Preventing Skeletal (Bone)-Related Events in Patients Who Are Receiving Androgen Deprivation Therapy For Prostate Cancer and Bone Metastases</title>		<dc:creator>admin</dc:creator>		<content:encoded><![CDATA[<div class="section"><h3>Background</h3><div class="holder">
+      RATIONALE: Zoledronate may prevent or decrease skeletal (bone)-related events (such as pain
+      or fractures) caused by bone metastases and androgen deprivation therapy. It is not yet
+      known whether treatment with zoledronate is effective in preventing bone-related events in
+      patients who have prostate cancer and bone metastases.
+
+      PURPOSE: This randomized phase III trial is studying how well zoledronate works in
+      preventing bone-related events in patients who are receiving androgen deprivation therapy
+      for prostate cancer and bone metastases.
+    </div></div>]]></content:encoded>		<wp:post_id>0</wp:post_id>		<wp:comment_status>open</wp:comment_status>		<wp:ping_status>closed</wp:ping_status>		<wp:post_name>zoledronate-in-preventing-skeletal-(bone)-related-events-in-patients-who-are-receiving-androgen-deprivation-therapy-for-prostate-cancer-and-bone-metastases</wp:post_name>		<wp:status>publish</wp:status>		<wp:post_type>medical-trial</wp:post_type>		<category domain="category" nicename="alaska"><![CDATA[Alaska]]></category>		<category domain="post_tag" nicename="prostate-cancer"><![CDATA[Prostate Cancer]]></category>		<wp:postmeta>			<wp:meta_key>rcenter</wp:meta_key>			<wp:meta_value><![CDATA[Fairbanks Cancer Treatment Center at Fairbanks Memorial Hospital]]></wp:meta_value>		</wp:postmeta>		<wp:postmeta>			<wp:meta_key>location</wp:meta_key>			<wp:meta_value><![CDATA[Fairbanks,Alaska,United States]]></wp:meta_value>		</wp:postmeta>		<wp:postmeta>			<wp:meta_key>lphysician</wp:meta_key>			<wp:meta_value><![CDATA[Matthew R. Smith, MD]]></wp:meta_value>		</wp:postmeta>		<wp:postmeta>			<wp:meta_key>ethicalrb</wp:meta_key>			<wp:meta_value><![CDATA[Unspecified]]></wp:meta_value>		</wp:postmeta>		<wp:postmeta>			<wp:meta_key>participate1</wp:meta_key>			<wp:meta_value><![CDATA[Male]]></wp:meta_value>		</wp:postmeta>		<wp:postmeta>			<wp:meta_key>participate2</wp:meta_key>			<wp:meta_value><![CDATA[Age: 18 Years to N/A]]></wp:meta_value>		</wp:postmeta>		<wp:postmeta>			<wp:meta_key>participate3</wp:meta_key>			<wp:meta_value><![CDATA[
+        DISEASE CHARACTERISTICS:
+
+         <br /> -  Histologically confirmed adenocarcinoma of the prostate
+
+         <br /> -  No small cell, neuroendocrine, or transitional cell carcinomas
+
+         <br /> -  At least 1 bone metastasis by bone scan, MRI, CT scan, or plain radiographs
+
+              <br /> -  Indeterminate lesions should be confirmed by a second imaging method
+
+              <br /> -  At least 1 bone metastasis with no prior irradiation
+
+         <br /> -  Concurrent androgen deprivation therapy required, defined as any of the following:
+
+              <br /> -  Bilateral orchiectomy
+
+              <br /> -  Gonadotropin-releasing hormone (GnRH) agonist with or without an antiandrogen
+
+        PATIENT CHARACTERISTICS:
+
+        Age
+
+         <br /> -  18 and over
+
+        Performance status
+
+         <br /> -  ECOG 0-2
+
+        Life expectancy
+
+         <br /> -  Not specified
+
+        Hematopoietic
+
+         <br /> -  Not specified
+
+        Hepatic
+
+         <br /> -  Not specified
+
+        Renal
+
+         <br /> -  Creatinine clearance ≥ 30 mL/min
+
+         <br /> -  Corrected calcium ≥ 8.0 mg/dL and < 11.6 mg/dL
+
+        Other
+
+         <br /> -  Fertile patients must use effective contraception
+
+        PRIOR CONCURRENT THERAPY:
+
+        Biologic therapy
+
+         <br /> -  Concurrent standard biologic response modifiers allowed during open-label therapy
+             only
+
+        Chemotherapy
+
+         <br /> -  Concurrent standard cytotoxic chemotherapy allowed during open-label therapy only
+
+        Endocrine therapy
+
+         <br /> -  See Disease Characteristics
+
+         <br /> -  Prior neoadjuvant and/or adjuvant hormonal therapy allowed provided duration of
+             therapy was no more than 6 months AND therapy was discontinued more than 6 months
+             before study entry
+
+         <br /> -  No more than 6 months since initiation of any of the following hormonal therapies:
+
+              <br /> -  Orchiectomy
+
+              <br /> -  GnRH agonist (e.g., leuprolide, goserelin, or triptorelin)
+
+              <br /> -  Estrogen therapy
+
+              <br /> -  Antiandrogens (e.g., bicalutamide, flutamide, or nilutamide)
+
+              <br /> -  Any other therapy known to lower testosterone levels or inhibit testosterone
+                  effect
+
+         <br /> -  No intermittent androgen deprivation therapy except for patients concurrently
+             enrolled on SWOG-9346
+
+         <br /> -  Concurrent palliative corticosteroids allowed during open-label therapy only
+
+         <br /> -  Concurrent standard hormonal agents allowed during open-label therapy only
+
+        Radiotherapy
+
+         <br /> -  See Disease Characteristics
+
+         <br /> -  No prior radiopharmaceuticals
+
+         <br /> -  At least 4 weeks since prior radiotherapy
+
+         <br /> -  Concurrent standard radiotherapy to extraskeletal tumor sites allowed during
+             open-label therapy only
+
+        Surgery
+
+         <br /> -  See Disease Characteristics
+
+        Other
+
+         <br /> -  No prior bisphosphonates
+
+         <br /> -  No prior denosumab
+
+         <br /> -  No other concurrent agents expected to alter osteoclast activity (e.g., denosumab,
+             calcitonin, mithramycin, gallium nitrate, or any other bisphosphonate)
+
+         <br /> -  Concurrent daily supplemental elemental calcium (500 mg) and a multivitamin
+             containing cholecalciferol (Vitamin D) (400 IU) OR a combination tablet containing
+             both recommended
+
+         <br /> -  Concurrent standard marketed antineoplastic therapies allowed during open-label
+             therapy only
+      ]]></wp:meta_value>		</wp:postmeta>	</item></channel></rss>
