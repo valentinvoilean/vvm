@@ -1,0 +1,459 @@
+<!DOCTYPE html><html
+lang="en-US"><head><link
+rel="stylesheet" type="text/css" href="http://localhost:8888/wp-content/cache/minify/000000/TYtBDoAgDAQ_BCk-CWk1mEKxQJTfa4yJ3nYmsw5qG0zGQagVlDBJRtj2Tjpsj68PwqKznOYoNkhulBv0wuKxwiKaIvqZ6Uk_LCpmgvtR_Bqzb_TfFw.css" media="all" /><script type="text/javascript" src="http://localhost:8888/wp-content/cache/minify/000000/TYxLDoMwDAUvlA8RbHocSIxqFMfUIRLh9E0LVVnOPL3p7JLt8iogVTvzME51N1PwjsZzZJl4PyVxAEl4yIlPGBvr7AXXLav-OqnBeiaCtGmBNVZDmNpY8Bct2LoCX-_szEIYxinCp_mnNw.js"></script><meta
+charset="UTF-8" /><title> &raquo; Hotel Continental</title><meta
+name="description" content="Just another WordPress site"><link
+rel="profile" href="http://gmpg.org/xfn/11" /><link
+rel="pingback" href="http://localhost:8888/xmlrpc.php" /> <!--[if gte IE 9]><style type="text/css">.gradient{filter:none}</style><![endif]--><script type="text/javascript">/*<![CDATA[*/$(function(){$("#m_curatenie").progressbar({value:10*10});$("#progress-label1").text(Math.round($("#m_curatenie").progressbar("value"))/10);progressbarValue=$("#m_curatenie").find(".ui-progressbar-value");if($("#m_curatenie").progressbar("value")<70)progressbarValue.css({"background":'#dc2521'});if($("#m_curatenie").progressbar("value")>=70){progressbarValue.css({"background":'#d7cb00'});}
+if($("#m_curatenie").progressbar("value")>=80)progressbarValue.css({"background":'#3fbd65'});$("#progress-label1").css({'left':$("#m_curatenie").progressbar("value")/2+"%"});$("#m_confort").progressbar({value:10*10});$("#progress-label2").text(Math.round($("#m_confort").progressbar("value"))/10);progressbarValue=$("#m_confort").find(".ui-progressbar-value");if($("#m_confort").progressbar("value")<70)progressbarValue.css({"background":'#dc2521'});if($("#m_confort").progressbar("value")>=70)progressbarValue.css({"background":'#d7cb00'});if($("#m_confort").progressbar("value")>=80)progressbarValue.css({"background":'#3fbd65'});$("#progress-label2").css({'left':$("#m_confort").progressbar("value")/2+"%"});$("#m_locatie").progressbar({value:10*10});$("#progress-label3").text(Math.round($("#m_locatie").progressbar("value"))/10);progressbarValue=$("#m_locatie").find(".ui-progressbar-value");if($("#m_locatie").progressbar("value")<70)progressbarValue.css({"background":'#dc2521'});if($("#m_locatie").progressbar("value")>=70)progressbarValue.css({"background":'#d7cb00'});if($("#m_locatie").progressbar("value")>=80)progressbarValue.css({"background":'#3fbd65'});$("#progress-label3").css({'left':$("#m_locatie").progressbar("value")/2+"%"});$("#m_personal").progressbar({value:10*10});$("#progress-label4").text(Math.round($("#m_personal").progressbar("value"))/10);progressbarValue=$("#m_personal").find(".ui-progressbar-value");if($("#m_personal").progressbar("value")<70)progressbarValue.css({"background":'#dc2521'});if($("#m_personal").progressbar("value")>=70)progressbarValue.css({"background":'#d7cb00'});if($("#m_personal").progressbar("value")>=80)progressbarValue.css({"background":'#3fbd65'});$("#progress-label4").css({'left':$("#m_personal").progressbar("value")/2+"%"});$("#m_c_pret").progressbar({value:7*10});$("#progress-label5").text(Math.round($("#m_c_pret").progressbar("value"))/10);progressbarValue=$("#m_c_pret").find(".ui-progressbar-value");if($("#m_c_pret").progressbar("value")<70)progressbarValue.css({"background":'#dc2521'});if($("#m_c_pret").progressbar("value")>=70)progressbarValue.css({"background":'#d7cb00'});if($("#m_c_pret").progressbar("value")>=80)progressbarValue.css({"background":'#3fbd65'});$("#progress-label5").css({'left':$("#m_c_pret").progressbar("value")/2+"%"});$("#m_mancare").progressbar({value:0*10});$("#progress-label6").text(Math.round($("#m_mancare").progressbar("value"))/10);progressbarValue=$("#m_mancare").find(".ui-progressbar-value");if($("#m_mancare").progressbar("value")<70)progressbarValue.css({"background":'#dc2521'});if($("#m_mancare").progressbar("value")>=70){progressbarValue.css({"background":'#d7cb00'});}
+if($("#m_mancare").progressbar("value")>=80)progressbarValue.css({"background":'#3fbd65'});$("#progress-label6").css({'left':$("#m_mancare").progressbar("value")/2+"%"});$("#m_servicii").progressbar({value:0*10});$("#progress-label7").text(Math.round($("#m_servicii").progressbar("value"))/10);progressbarValue=$("#m_servicii").find(".ui-progressbar-value");if($("#m_servicii").progressbar("value")<70)progressbarValue.css({"background":'#dc2521'});if($("#m_servicii").progressbar("value")>=70)progressbarValue.css({"background":'#d7cb00'});if($("#m_servicii").progressbar("value")>=80)progressbarValue.css({"background":'#3fbd65'});$("#progress-label7").css({'left':$("#m_servicii").progressbar("value")/2+"%"});$("#m_locatie2").progressbar({value:0*10});$("#progress-label8").text(Math.round($("#m_locatie2").progressbar("value"))/10);progressbarValue=$("#m_locatie2").find(".ui-progressbar-value");if($("#m_locatie2").progressbar("value")<70)progressbarValue.css({"background":'#dc2521'});if($("#m_locatie2").progressbar("value")>=70)progressbarValue.css({"background":'#d7cb00'});if($("#m_locatie2").progressbar("value")>=80)progressbarValue.css({"background":'#3fbd65'});$("#progress-label8").css({'left':$("#m_locatie2").progressbar("value")/2+"%"});$("#m_personal2").progressbar({value:0*10});$("#progress-label9").text(Math.round($("#m_personal2").progressbar("value"))/10);progressbarValue=$("#m_personal2").find(".ui-progressbar-value");if($("#m_personal2").progressbar("value")<70)progressbarValue.css({"background":'#dc2521'});if($("#m_personal2").progressbar("value")>=70)progressbarValue.css({"background":'#d7cb00'});if($("#m_personal2").progressbar("value")>=80)progressbarValue.css({"background":'#3fbd65'});$("#progress-label9").css({'left':$("#m_personal2").progressbar("value")/2+"%"});$("#m_c_pret2").progressbar({value:0*10});$("#progress-label10").text(Math.round($("#m_c_pret2").progressbar("value"))/10);progressbarValue=$("#m_c_pret2").find(".ui-progressbar-value");if($("#m_c_pret2").progressbar("value")<70)progressbarValue.css({"background":'#dc2521'});if($("#m_c_pret2").progressbar("value")>=70)progressbarValue.css({"background":'#d7cb00'});if($("#m_c_pret2").progressbar("value")>=80)progressbarValue.css({"background":'#3fbd65'});$("#progress-label10").css({'left':$("#m_c_pret2").progressbar("value")/2+"%"});});/*]]>*/</script><link
+rel="alternate" type="application/rss+xml" title="TouristClub &raquo; Hotel Continental Comments Feed" href="http://localhost:8888/hotel/hotel-continental/feed/" /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost:8888/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost:8888/wp-includes/wlwmanifest.xml" /><link
+rel='prev' title='Pensiunea Amso' href='http://localhost:8888/pensiune/pensiunea-amso/' /><meta
+name="generator" content="WordPress 3.5.1" /><link
+rel='canonical' href='http://localhost:8888/hotel/hotel-continental/' /><link
+rel='shortlink' href='http://localhost:8888/?p=410' /><style type="text/css">.recentcomments
+a{display:inline !important;padding:0
+!important;margin:0
+!important}</style></head><body> <header> <section><div
+id="logo" onClick="window.location='/'" title="Tourist Club Hoteluri Restaurante"><div
+id="logoimage"></div><div
+style="float:right; "> <span
+style="font-size:30px; text-shadow: 2px 2px rgba(0, 0, 0, 0.5); font-weight:bold">Tourist</span> <span
+style="font-size:30px; background:#fff; color:#0189b3;padding-left:5px;padding-right:5px; font-weight:bold">Club</span><br> <span
+style="font-size:14px; margin-left:5px;line-height:20px">Hoteluri, Restaurante</span></div></div><div
+style="float:right"> <nav
+id="topnav"><ul><li><a
+href="/adauga-anunt/" style="color:#02ade1; background:#fff;padding:0 2px 0 2px">Adauga anunt</a></li><li><a
+href="/wp-login.php/">Login</a></li><li><a
+href="/cont-nou/">Cont Nou</a></li></ul> </nav><form
+id="top-search-form" style="float:right;margin-top:5px; position:relative" action="/tip/hotel"><table><tbody><tr><td> <input
+id="select-oras" class="rounded oras" type="text" name="oras" placeholder="Introdu localitatea"></td><td> <select
+name="tip" id="tip_search"><option
+value="hotel">Hotel</option><option
+value="pensiune">Pensiune</option><option
+value="restaurant">Restaurant</option> </select></td><td> <input
+type="submit" id="cautabtn" value="Cauta"></td></tr><tr
+style="font-size:12px; color:#fff"><td>Alege o destinatie</td><td>Ce cauti?</td><td></td></tr></tbody
+></table></form></div> </section> </header> <nav
+id="bignav"><ul><li
+class="currentpage"><a
+href="/">Acasa</a></li><li><img
+src=" http://localhost:8888/wp-content/themes/TouristClub/images/separator.gif" alt="separator" width="2" height="19"></li><li><a
+href="#">Cazare</a><ul><li><a
+href="/hoteluri">Caută Hoteluri</a></li><li><a
+href="/pensiuni">Cauta Pensiuni</a></li></ul></li><li><img
+src=" http://localhost:8888/wp-content/themes/TouristClub/images/separator.gif" alt="separator" width="2" height="19"></li><li><a
+href="/restaurante">Restaurante</a></li><li><a
+href="/contact">Contact</a></li><li><img
+src=" http://localhost:8888/wp-content/themes/TouristClub/images/separator.gif" alt="separator" width="2" height="19"></li><li><a
+href="/faq">Intrebari Frecvente</a></li></ul> </nav><section> <aside
+class="floatleft"><div
+class="widget"><div
+class="frm_form_widget frm_set_select"><h3>Cauta</h3><div
+class="frm_forms with_frm_style" id="frm_form_15_container"><form
+enctype="multipart/form-data" method="post" class="frm-show-form " id="form_scbkei" ><div
+class="frm_form_fields"><fieldset><div> <input
+type="hidden" name="frm_action" value="create" /> <input
+type="hidden" name="form_id" value="15" /> <input
+type="hidden" name="form_key" value="scbkei" /><div
+id="frm_field_318_container" class="frm_form_field form-field  frm_top_container"> <label
+class="frm_primary_label">Denumire <span
+class="frm_required"></span> </label> <input
+type="text" id="field_5m89uu" name="item_meta[318]" value="" /></div><div
+id="frm_field_316_container" class="frm_form_field form-field  frm_top_container"> <label
+class="frm_primary_label">Categorie Anunt <span
+class="frm_required"></span> </label> <select
+name="item_meta[316]" id="field_o3rbg1"  onchange="frmCheckDependent(jQuery(this).val(),'316')"><option
+value="Hotel" selected="selected">Hotel</option><option
+value="Pensiune" >Pensiune</option><option
+value="Restaurant" >Restaurant</option> </select></div><div
+id="frm_field_291_container" class="frm_form_field form-field  frm_top_container frm_left_half"> <label
+class="frm_primary_label">Oras / Localitate <span
+class="frm_required"></span> </label> <input
+type="text" id="field_eer3ti" name="item_meta[291]" value="" /></div><div
+id="frm_field_292_container" class="frm_form_field form-field  frm_top_container frm_right_half"> <label
+class="frm_primary_label">Judet <span
+class="frm_required"></span> </label> <select
+name="item_meta[292]" id="field_kcfp78" ><option
+value="" selected="selected">Toate</option><option
+value="Alba" >Alba</option><option
+value="Arad" >Arad</option><option
+value="Arges" >Arges</option><option
+value="Bacau" >Bacau</option><option
+value="Bihor" >Bihor</option><option
+value="Bistrita-Nasaud" >Bistrita-Nasaud</option><option
+value="Botosani" >Botosani</option><option
+value="Braila" >Braila</option><option
+value="Brasov" >Brasov</option><option
+value="Bucuresti-Ilfov" >Bucuresti-Ilfov</option><option
+value="Buzau" >Buzau</option><option
+value="Calarasi" >Calarasi</option><option
+value="Caras-Severin" >Caras-Severin</option><option
+value="Cluj" >Cluj</option><option
+value="Constanta" >Constanta</option><option
+value="Covasna" >Covasna</option><option
+value="Dambovita" >Dambovita</option><option
+value="Dolj" >Dolj</option><option
+value="Galati" >Galati</option><option
+value="Giurgiu" >Giurgiu</option><option
+value="Gorj" >Gorj</option><option
+value="Harghita" >Harghita</option><option
+value="Hunedoara" >Hunedoara</option><option
+value="Ialomita" >Ialomita</option><option
+value="Iasi" >Iasi</option><option
+value="Maramures" >Maramures</option><option
+value="Mehedinti" >Mehedinti</option><option
+value="Mures" >Mures</option><option
+value="Neamt" >Neamt</option><option
+value="Olt" >Olt</option><option
+value="Prahova" >Prahova</option><option
+value="Salaj" >Salaj</option><option
+value="Satu-Mare" >Satu-Mare</option><option
+value="Sibiu" >Sibiu</option><option
+value="Suceava" >Suceava</option><option
+value="Teleorman" >Teleorman</option><option
+value="Timis" >Timis</option><option
+value="Tulcea" >Tulcea</option><option
+value="Valcea" >Valcea</option><option
+value="Vaslui" >Vaslui</option><option
+value="Vrancea" >Vrancea</option> </select></div><div
+id="frm_field_294_container" class="frm_form_field form-field  frm_top_container frm_left_half"> <label
+class="frm_primary_label">Categorie <span
+class="frm_required"></span> </label> <select
+name="item_meta[294]" id="field_1t21s" ><option
+value="" selected="selected">Toate</option><option
+value="1-stea" >Hotel 1 * / stea</option><option
+value="2-stele" >Hotel 2 ** / stele</option><option
+value="3-stele" >Hotel 3 *** / stele</option><option
+value="4-stele" >Hotel 4 **** / stele</option><option
+value="5-stele" >Hotel 5 ***** / stele</option> </select></div><div
+id="frm_field_317_container" class="frm_form_field form-field  frm_top_container frm_left_half"> <label
+class="frm_primary_label">Categorie <span
+class="frm_required"></span> </label> <select
+name="item_meta[317]" id="field_wg08jm" ><option
+value="" selected="selected">Toate</option><option
+value="1-margareta" >Pensiune 1 margareta</option><option
+value="2-margarete" >Pensiune 2 margarete</option><option
+value="3-margarete" >Pensiune 3 margarete</option><option
+value="4-margarete" >Pensiune 4 margarete</option><option
+value="5-margarete" >Pensiune 5 margarete</option> </select></div><div
+id="frm_field_300_container" class="frm_form_field form-field  frm_top_container frm_right_half"> <label
+class="frm_primary_label">Pret Maxim <span
+class="frm_required"></span> </label> <input
+type="text" id="field_7e7xb1" name="item_meta[300]" value="" /></div><div
+id="frm_field_320_container" class="frm_form_field form-field  frm_top_container"> <label
+class="frm_primary_label">Specific <span
+class="frm_required"></span> </label> <select
+name="item_meta[320]" id="field_52v1lj" ><option
+value="" >Toate</option><option
+value="Arabesc" >Arabesc</option><option
+value="Belgian" >Belgian</option><option
+value="Brazilian" >Brazilian</option><option
+value="Chinezesc" >Chinezesc</option><option
+value="Frantuzesc" >Frantuzesc</option><option
+value="Grecesc" >Grecesc</option><option
+value="Indian" >Indian</option><option
+value="International" >International</option><option
+value="Italian" >Italian</option><option
+value="Japonez" >Japonez</option><option
+value="Libanez" >Libanez</option><option
+value="Mediteranean" >Mediteranean</option><option
+value="Mexican" >Mexican</option><option
+value="Mongol" >Mongol</option><option
+value="Oriental" >Oriental</option><option
+value="Portughez" >Portughez</option><option
+value="Romanesc" >Romanesc</option><option
+value="Sud-american" >Sud-american</option><option
+value="Turcesc" >Turcesc</option><option
+value="Unguresc" >Unguresc</option><option
+value="Vegetarian" >Vegetarian</option><option
+value="Fast-food" >Fast-food</option><option
+value="Pescaresc-marin" >Pescaresc-marin</option><option
+value="Pizzerie" >Pizzerie</option><option
+value="American" >American</option> </select></div><div
+id="frm_field_319_container" class="frm_form_field  form-field"><div
+style="clear:both"></div></div><div
+id="frm_field_299_container" class="frm_form_field form-field  frm_none_container frm_left_half"> <label
+class="frm_primary_label">Tip Camera <span
+class="frm_required"></span> </label><div
+class="frm_checkbox" id="frm_checkbox_299-1"><input
+type="checkbox" name="item_meta[299][]" id="field_299-1" value="Single"  /><label
+for="field_299-1">Single</label></div><div
+class="frm_checkbox" id="frm_checkbox_299-2"><input
+type="checkbox" name="item_meta[299][]" id="field_299-2" value="Camera dubla sau twin"  /><label
+for="field_299-2">Dubla/twin</label></div><div
+class="frm_checkbox" id="frm_checkbox_299-3"><input
+type="checkbox" name="item_meta[299][]" id="field_299-3" value="Apartament"  /><label
+for="field_299-3">Apartament</label></div></div><div
+id="frm_field_301_container" class="frm_form_field form-field  frm_none_container frm_right_half"> <label
+class="frm_primary_label">Inclus in pret <span
+class="frm_required"></span> </label><div
+class="frm_checkbox" id="frm_checkbox_301-1"><input
+type="checkbox" name="item_meta[301][]" id="field_301-1" value="mic dejun inclus"  /><label
+for="field_301-1">mic dejun inclus</label></div><div
+class="frm_checkbox" id="frm_checkbox_301-2"><input
+type="checkbox" name="item_meta[301][]" id="field_301-2" value="all inclusive"  /><label
+for="field_301-2">all inclusive</label></div></div><div
+id="frm_field_297_container" class="frm_form_field form-field  horizontal_radio frm_none_container frm_left_half" style="margin-bottom:0"> <label
+class="frm_primary_label">Parcare <span
+class="frm_required"></span> </label><div
+class="frm_checkbox" id="frm_checkbox_297-1"><input
+type="checkbox" name="item_meta[297][]" id="field_297-1" value="da"  /><label
+for="field_297-1">Parcare</label></div></div><div
+id="frm_field_298_container" class="frm_form_field form-field  horizontal_radio frm_none_container frm_right_half" style="margin-bottom:0"> <label
+class="frm_primary_label">Internet Wifi <span
+class="frm_required"></span> </label><div
+class="frm_checkbox" id="frm_checkbox_298-1"><input
+type="checkbox" name="item_meta[298][]" id="field_298-1" value="da"  /><label
+for="field_298-1">Internet Wifi</label></div></div><div
+id="frm_field_296_container" class="frm_form_field form-field  horizontal_radio frm_none_container" style="margin-bottom:0"> <label
+class="frm_primary_label">Animale de companie <span
+class="frm_required"></span> </label><div
+class="frm_checkbox" id="frm_checkbox_296-1"><input
+type="checkbox" name="item_meta[296][]" id="field_296-1" value="da"  /><label
+for="field_296-1">Animale de companie</label></div></div> <input
+type="hidden" name="item_key" value="" /></div></fieldset></div><p
+class="submit"> <input
+type="submit" value="Submit" /></p></form></div></div></div><div
+class="textwidget"><div
+style="margin-bottom:20px"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-5880853293233753";
+/* AnuntGarantat1 */
+google_ad_slot = "5533418333";
+google_ad_width = 300;
+google_ad_height = 250;
+//--></script><script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div></div><div
+class="textwidget"><iframe
+src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FFacebookDevelopers&amp;width=300&amp;height=290&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;show_border=true&amp;header=true" style="border:none; overflow:hidden; width:300px; height:290px; overflow:hidden; border:0;background-color:transparent"></iframe></div> </aside> <article
+class="floatright"><div
+id="bread"><a
+href="http://localhost:8888" title="Browse to: Home">Home</a> &raquo; <a
+href="http://localhost:8888/tip/hotel/" title="View all posts in Hotel" rel="category tag">Hotel</a>, <a
+href="http://localhost:8888/tip/hotel/5-stele/" title="View all posts in Hotel 5 ***** / stele" rel="category tag">Hotel 5 ***** / stele</a> &raquo; Blog article: Hotel Continental</div><h1 style="float:left">Hotel Continental</h1><div
+class="star"></div><div
+class="star"></div><div
+class="star"></div><div
+class="star"></div><div
+class="star"></div> <a
+href="http://localhost:8888/hotel/hotel-continental/#tabs-2" onclick="window.location.href = 'http://localhost:8888/hotel/hotel-continental/#tabs-2';location.reload()" style="float:right; font-weight:bold; font-size:18px; color:#e17009; text-align:right">Nota: 9.50<br
+/> <span
+style="font-size:12px">din 1 vot(uri)</span></a><div
+style="clear:both; font-style:italic">str. Badea Cartan, nr. 1, Fagaras, <a
+href="http://localhost:8888/?taxonomy=judet&amp;term=brasov" title="View all posts filed under Brasov">Brasov</a></div><div
+id="breadcrumb"></div><script type="text/javascript">document.getElementById("breadcrumb").innerHTML=document.getElementById("bread").innerHTML;</script><div
+id="content-tabs"><ul><li><a
+href="#tabs-1">Descriere</a></li><li><a
+href="#tabs-2">Pareri Vizitatori</a></li><li><a
+href="#tabs-3">Contact</a></li></ul><div
+id="tabs-1"><div
+style="clear:both; overflow:hidden"><div
+class="featuredimage"><a
+class="group1" href="http://localhost:8888/wp-content/uploads/formidable/2008.05.13-Hotel-Continental-Forum-0011.jpg" title="receptia hotelului"><img
+src="http://localhost:8888/wp-content/uploads/formidable/2008.05.13-Hotel-Continental-Forum-0011-300x225.jpg" width="250"  alt="receptia hotelului" title="receptia hotelului"></a></div><p>Hotelul Continental Forum din Sibiu, gazduit de o cladire monument istoric ce dateaza din anul 1912, a trecut recent printr-un proces de restaurare si redecorare fiind redat publicului in anul 2007.</p><p>Acest hotel in Sibiu este localizat in imediata apropiere a centrului istoric, oferind vizitatorilor orasului aflati in vacanta sau intr-o calatorie de afaceri, acces rapid la numeroasele atractii turistice din Sibiu si din imprejurimile orasului.</p><p>Continental Forum Sibiu este un hotel de 4 stele ce dispune de cel mai spatios apartament prezidential (peste 180 mp), dar si de un centru spa modern, oferind clientilor o experienta deosebita de cazare in Sibiu.</p></div><div
+class="gallery"><div
+class="galleryimg"><a
+class="group1" href="http://localhost:8888/wp-content/uploads/formidable/camera_13-1024x431.jpg" title="descriere 2"><img
+src="http://localhost:8888/wp-content/uploads/formidable/camera_13-150x150.jpg" width="115" height="115" alt="descriere 2" title="descriere 2"></a></div><div
+class="galleryimg"><a
+class="group1" href="http://localhost:8888/wp-content/uploads/formidable/camera_63-1024x438.jpg" title="descriere 3"><img
+src="http://localhost:8888/wp-content/uploads/formidable/camera_63-150x150.jpg" width="115" height="115" alt="descriere 3" title="descriere 3"></a></div><div
+class="galleryimg"><a
+class="group1" href="http://localhost:8888/wp-content/uploads/formidable/camera_72.jpg" title="descriere 4"><img
+src="http://localhost:8888/wp-content/uploads/formidable/camera_72-150x150.jpg" width="115" height="115" alt="descriere 4" title="descriere 4"></a></div><div
+class="galleryimg lastimg"><a
+class="group1" href="http://localhost:8888/wp-content/uploads/formidable/camera_92-1024x593.jpg" title="descriere 5"><img
+src="http://localhost:8888/wp-content/uploads/formidable/camera_92-150x150.jpg" width="115" height="115" alt="descriere 5" title="descriere 5"></a></div><div
+style="clear:both"><div
+class="imgdesc">descriere 2</div><div
+class="imgdesc">descriere 3</div><div
+class="imgdesc">descriere 4</div><div
+class="imgdesc lastdesc">descriere 5</div></div></div><div
+id="camere"><h3>Detalii <a
+href="http://localhost:8888/tip/hotel/" title="View all posts filed under Hotel">Hotel</a></h3><div><div
+class="optiune"><p><b>Facilitati Generale:</b></p><div
+class="facilitatigenerale"><a
+href="http://localhost:8888/tag/acces-persoane-cu-dizabilitati/" title="View all posts filed under Acces persoane cu dizabilitati">Acces persoane cu dizabilitati</a>, <a
+href="http://localhost:8888/tag/aer-conditionat-6/" title="View all posts filed under Aer Conditionat">Aer Conditionat</a>, <a
+href="http://localhost:8888/tag/baie-cu-cada/" title="View all posts filed under baie cu cada">baie cu cada</a>, <a
+href="http://localhost:8888/tag/bar-2424h/" title="View all posts filed under Bar 24/24h">Bar 24/24h</a>, <a
+href="http://localhost:8888/tag/bowling/" title="View all posts filed under Bowling">Bowling</a>, <a
+href="http://localhost:8888/tag/business-corner/" title="View all posts filed under Business corner">Business corner</a>, <a
+href="http://localhost:8888/tag/cabina-dus/" title="View all posts filed under Cabina dus">Cabina dus</a>, <a
+href="http://localhost:8888/tag/camera-de-bagaje/" title="View all posts filed under Camera de bagaje">Camera de bagaje</a>, <a
+href="http://localhost:8888/tag/camere-pentru-fumatori-si-nefumatori/" title="View all posts filed under Camere pentru fumatori si nefumatori">Camere pentru fumatori si nefumatori</a>, <a
+href="http://localhost:8888/tag/casino/" title="View all posts filed under Casino">Casino</a>, <a
+href="http://localhost:8888/tag/curatatorie-si-spalatorie/" title="View all posts filed under Curatatorie si spalatorie">Curatatorie si spalatorie</a>, <a
+href="http://localhost:8888/tag/curier/" title="View all posts filed under Curier">Curier</a>, <a
+href="http://localhost:8888/tag/faxcopiator-disponibil-la-receptie/" title="View all posts filed under Fax/copiator disponibil la receptie">Fax/copiator disponibil la receptie</a>, <a
+href="http://localhost:8888/tag/fier-de-calcat/" title="View all posts filed under Fier de calcat">Fier de calcat</a>, <a
+href="http://localhost:8888/tag/lcd/" title="View all posts filed under LCD">LCD</a>, <a
+href="http://localhost:8888/tag/lift/" title="View all posts filed under Lift">Lift</a>, <a
+href="http://localhost:8888/tag/nefumatori/" title="View all posts filed under Nefumatori">Nefumatori</a>, <a
+href="http://localhost:8888/tag/organizare-conferinte-si-evenimente/" title="View all posts filed under Organizare conferinte si evenimente">Organizare conferinte si evenimente</a>, <a
+href="http://localhost:8888/tag/patiserie/" title="View all posts filed under Patiserie">Patiserie</a>, <a
+href="http://localhost:8888/tag/persoane-cu-handicap/" title="View all posts filed under Persoane cu handicap">Persoane cu handicap</a>, <a
+href="http://localhost:8888/tag/plata-cu-card-de-credit/" title="View all posts filed under Plata cu card de credit">Plata cu card de credit</a>, <a
+href="http://localhost:8888/tag/receptie-2424h/" title="View all posts filed under Receptie 24/24h">Receptie 24/24h</a>, <a
+href="http://localhost:8888/tag/restaurant/" title="View all posts filed under Restaurant">Restaurant</a>, <a
+href="http://localhost:8888/tag/rezervare/" title="View all posts filed under Rezervare">Rezervare</a>, <a
+href="http://localhost:8888/tag/sali-de-conferinta/" title="View all posts filed under Sali de conferinta">Sali de conferinta</a>, <a
+href="http://localhost:8888/tag/seif-gratuit-in-camera/" title="View all posts filed under Seif gratuit in camera">Seif gratuit in camera</a>, <a
+href="http://localhost:8888/tag/self-service-business-centre/" title="View all posts filed under Self service business centre">Self service business centre</a>, <a
+href="http://localhost:8888/tag/terasa/" title="View all posts filed under Terasa">Terasa</a>, <a
+href="http://localhost:8888/tag/transport-taxi-sau-inchirieri-masini/" title="View all posts filed under Transport: taxi sau inchirieri masini">Transport: taxi sau inchirieri masini</a>, <a
+href="http://localhost:8888/tag/uscator-de-par/" title="View all posts filed under Uscator de par">Uscator de par</a></div></div><div
+class="optiune"><p><b>Check-In:</b></p><div>de la ora 08:00 AM la ora 09:00 PM</div></div><div
+class="optiune"><p><b>Check-Out:</b></p><div>de la ora 08:00 AM la ora 01:00 PM</div></div><div
+class="optiune"><p><b>Animale de companie</b></p><div>Da</div></div><div
+class="optiune"><p><b>Parcare</b></p><div>Da, gratuit</div></div><div
+class="optiune"><p><b>Internet Wifi</b></p><div>Da</div></div></div><h3>Camera single  - mic dejun inclus</h3><div><div
+class="optiune"><p><span
+style="text-transform: capitalize"><b>Descriere:</b></span><br
+/> <a
+class="group1 cameraimg" href="http://localhost:8888/wp-content/uploads/formidable/camera_baie1.jpg"><img
+src="http://localhost:8888/wp-content/uploads/formidable/camera_baie1-150x150.jpg" title="camera 1" alt="camera 1" width="115" height="115"></a></p><div
+class="desc_camera"><p>Cazare in Sibiu – Camere Hotelul ofera 135 de camere dispuse pe 4 nivele din care: 100 standard 24 executive 6 apartamente standard 4 apartamente executive 1 apartament prezidential Cladirea este structurata pe patru etaje, ultimul fiind destinat exclusiv apartamentului prezidential ce are o suprafata generoasa de peste 180 mp.</p></div></div><div
+style="clear:both"></div><div
+class="optiune"><p><b>Facilitati:</b></p><div
+class="facilitatigenerale">Aer conditionat, Apel trezire, Room Service, Pat suplimentar, aer conditionat, minibar, TV cu ecran LCD, telefon in camera</div></div><div
+class="optiune"><p><b>Pret:</b></p><div>100 RON</div></div></div><h3>Camera dubla sau twin</h3><div><div
+class="optiune"><p><span
+style="text-transform: capitalize"><b>Descriere:</b></span><br
+/> <a
+class="group1 cameraimg" href="http://localhost:8888/wp-content/uploads/formidable/camera_baie22.jpg"><img
+src="http://localhost:8888/wp-content/uploads/formidable/camera_baie22-150x150.jpg" title="camera 1" alt="camera 1" width="115" height="115"></a></p><div
+class="desc_camera"><p>azare in Sibiu – Tarife Rezerva online cu 48 de ore in avans si ai tarife de la 36,90€/ camera valabil Duminica si 45,90€/ camera valabil de Luni pana Sambata Oferta valabila pentru rezervarile online cu plata in avans Tarifele includ TVA si taxa locala. Internet Wi-Fi GRATUIT. Se accepta plata prin numerar, credit card</p></div></div><div
+style="clear:both"></div><div
+class="optiune"><p><b>Facilitati:</b></p><div
+class="facilitatigenerale">telefon in camera, seif, kit-uri igiena personala, cada cu jacuzzi, bucatarie</div></div><div
+class="optiune"><p><b>Pret:</b></p><div>120 RON</div></div></div><h3>Apartament  - all inclusive</h3><div><div
+class="optiune"><p><span
+style="text-transform: capitalize"><b>Descriere:</b></span><br
+/> <a
+class="group1 cameraimg" href="http://localhost:8888/wp-content/uploads/formidable/camera_junior1-1024x606.jpg"><img
+src="http://localhost:8888/wp-content/uploads/formidable/camera_junior1-150x150.jpg" title="camera 1" alt="camera 1" width="115" height="115"></a></p><div
+class="desc_camera"><p>Servicii fara plata: acces internet transmitere mesaje camera pentru bagaje rezervari bilete informatii culturale si turistice apelare taxi telefon de trezire Servicii cu plata: parcare business corner (fax, xerox, internet) servicii curierat telefon room service serviciul de spalatorie si calcat Micul dejun tip bufet suedez se serveste zilnic intre orele 6:30 -10:30, in spatiul amenajat…</p></div></div><div
+style="clear:both"></div><div
+class="optiune"><p><b>Facilitati:</b></p><div
+class="facilitatigenerale">uscator de  par, kit-uri igiena personala, cantar, cada cu jacuzzi, bucatarie, living, aragaz, cuport cu microunde, vesela</div></div><div
+class="optiune"><p><b>Pret:</b></p><div>150 RON</div></div></div></div></div><div
+id="tabs-2"><table
+id="medietotala"><tr><td
+style="vertical-align:top"><div
+style="background:#fafafa; border:1px solid #e6e6e6; width:100px;-moz-border-radius: 10px; border-radius: 10px; text-align:center;padding:5px; font-size:16px;"> Nota:<br
+/> <span
+style="color:#3fbd65; font-weight:bold; font-size:20px">9.50</span></div> <a
+style="color:#00779c; margin-top:10px" href="#rate">Acorda calificativ</a></td><td><table
+style="float:right"><tr><td
+style="padding-right:10px">Curatenie</td><td><div
+id="m_curatenie"><div
+id="progress-label1">Loading...</div></div></td></tr><tr><td
+style="padding-right:10px">Confort</td><td><div
+id="m_confort"><div
+id="progress-label2">Loading...</div></div></td></tr><tr><td
+style="padding-right:10px">Locatie</td><td><div
+id="m_locatie"><div
+id="progress-label3">Loading...</div></div></td></tr><tr><td
+style="padding-right:10px">Personal</td><td><div
+id="m_personal"><div
+id="progress-label4">Loading...</div></div></td></tr><tr><td
+style="padding-right:10px">Raport Calitate/Pret</td><td><div
+id="m_c_pret"><div
+id="progress-label5">Loading...</div></div></td></tr></table></td></tr></table><div
+id="comments"><h1>Comentarii lasate de vizitatori</h1><hr
+/><ul><li><table
+style="color:#666666; width:100%"><tr><td
+style="vertical-align:top;width:100px;padding-right:20px"><span><b>Andrei</b></span><br
+/><span>June 1, 2013 at 6:09 pm</span></td><td
+style="vertical-align:top; width:300px"><table><tr><td
+style="vertical-align:top; font-weight:bold; font-size:20px; color:#3fbd65; padding:0px 10px 10px 10px">+</td><td
+style="padding:0px 10px 10px 10px"><p>Locatie si amenajari excelente, ospitaliate, mancare mult mai buna decat la mama acasa:). Tot ce am mancat a fost absolut delicios, gazda cu afinata si palinca tot timpul dupa noi. Absolut incantati, un mic colt de rai.</p></td></tr><tr><td
+style="vertical-align:top; font-weight:bold; font-size:20px; color:#ff0000; padding:10px">-</td><td
+style="padding:10px"><p>nimic</p></td></tr></table></td><td
+style="padding:20px"><script type="text/javascript">/*<![CDATA[*/var background;var border;var textcolor;var nota=Math.round(9.5*100)/100;if(nota<7){background='feeeee';border='ffc8c8';textcolor='dc2521'}
+if(nota>=7){background='fefbee';border='f0e9cd';textcolor='fbab00'}
+if(nota>=8){background='f1feee';border='d6f0cd';textcolor='3fbd65'}
+document.write('<span style="background:#'+background+'; border:1px solid #'+border+';color:#'+textcolor+'; padding:10px; font-size:24px;-moz-border-radius: 30px;-webkit-border-radius: 30px; border-radius:30px">'+nota+'</span>');/*]]>*/</script></td></tr></table></li></ul></div><div
+id="rate"> You have already submitted that form</div></div><div
+id="tabs-3"><div
+id="contacttabs"><h3>Detalii contact</h3><div><div
+class="optiune"><p><b>Telefon:</b></p><div>07644747474</div></div><div
+class="optiune"><p><b>Mobil:</b></p><div>064376437346</div></div><div
+class="optiune"><p><b>Fax:</b></p><div>0743767324</div></div><div
+class="optiune"><p><b>Email:</b></p><div>hotelcontinental@hotel.com</div></div><div
+class="optiune"><p><b>Website:</b></p><div>http://hotelcontinental.ro</div></div><div
+class="optiune"><p><b>Adresa:</b></p><div>str. Badea Cartan, nr. 1</div></div><div
+class="optiune"><p><b>Oras:</b></p><div>Fagaras</div></div><div
+class="optiune"><p><b>Judet:</b></p><div><a
+href="http://localhost:8888/?taxonomy=judet&amp;term=brasov" title="View all posts filed under Brasov">Brasov</a></div></div></div><h3>Foloseste formularul pentru contact</h3><div><p>Va rugam sa folositi acest formular in cazul in care doriti sa contactati locatia direct. <br
+/> Comunicarea (schimbul de mesaje) se face direct intre hotelier si turist.</p><div
+class="frm_forms with_frm_style" id="frm_form_11_container"><form
+enctype="multipart/form-data" method="post" class="frm-show-form " id="form_9k0q2a" ><div
+class="frm_form_fields"><fieldset><div> <input
+type="hidden" name="frm_action" value="create" /> <input
+type="hidden" name="form_id" value="11" /> <input
+type="hidden" name="form_key" value="9k0q2a" /><div
+id="frm_field_275_container" class="frm_form_field form-field  frm_required_field frm_top_container"><label
+class="frm_primary_label">Nume<span
+class="frm_required">*</span></label><input
+type="text" id="field_zkea27" name="item_meta[275]" value=""  class=" required"/></div><div
+id="frm_field_276_container" class="frm_form_field form-field  frm_required_field frm_top_container"><label
+class="frm_primary_label">Email<span
+class="frm_required">*</span></label><input
+type="email" id="field_ea1pfn" name="item_meta[276]" value=""  class=" required"/></div><div
+id="frm_field_277_container" class="frm_form_field form-field  frm_required_field frm_top_container"><label
+class="frm_primary_label">Subiect<span
+class="frm_required">*</span></label><input
+type="text" id="field_dtt8hb" name="item_meta[277]" value="Detalii Hotel Continental"  class=" required"/></div><div
+id="frm_field_278_container" class="frm_form_field form-field  frm_required_field frm_top_container"><label
+class="frm_primary_label">Detalii<span
+class="frm_required">*</span></label><textarea name="item_meta[278]" id="field_wgcqyn" rows="5"  class=" required"></textarea></div> <input
+type="hidden" id="field_8tg9mo" name="item_meta[274]" value="vali.voilean@gmail.com "/> <input
+type="hidden" name="item_key" value="" /></div></fieldset></div><p
+class="submit"> <input
+type="submit" value="Submit"  formnovalidate="formnovalidate"/></p></form></div></div></div></div></div> </article> </section> <footer> <section><div
+class="column"><h2>Despre TouristClub</h2><p> - cel mai popular site de rezervari directe conf. trafic.ro,<br> - peste 5.500 de unitati de cazare din toata Romania,<br> - detalii complete si poze din fiecare camera,<br> - 13777 recenzii la hoteluri si pensiuni,<br> - tarife de cazare actualizate zilnic,<br> - contact direct cu hotelierii, fara intermediari,<br> - cele mai mici preturi la cazare, fara comision.</p></div><div
+class="column"><h2>Ultimele unitati inscrise</h2><p> <a
+href="http://localhost:8888/hotel/hotel-continental/">Hotel Continental (01-06-2013)</a><br> <a
+href="http://localhost:8888/pensiune/pensiunea-amso/">Pensiunea Amso (30-05-2013)</a><br> <a
+href="http://localhost:8888/restaurant/restaurant-bolta-rece/">Restaurant Bolta Rece (30-05-2013)</a><br> <a
+href="http://localhost:8888/hotel/hotel-ibis/">Hotel Ibis (30-05-2013)</a><br></p></div><div
+class="column"><h2>Tag Cloud</h2><div
+style="height:100px"> <a
+href='http://localhost:8888/tag/acces-persoane-cu-dizabilitati/' class='tag-link-180' title='4 topics' style='font-size: 16pt;'>Acces persoane cu dizabilitati</a> <a
+href='http://localhost:8888/tag/aer-conditionat-6/' class='tag-link-187' title='4 topics' style='font-size: 16pt;'>Aer Conditionat</a> <a
+href='http://localhost:8888/tag/baie-cu-cada/' class='tag-link-76' title='3 topics' style='font-size: 8pt;'>baie cu cada</a> <a
+href='http://localhost:8888/tag/cabina-dus/' class='tag-link-167' title='3 topics' style='font-size: 8pt;'>Cabina dus</a> <a
+href='http://localhost:8888/tag/lcd/' class='tag-link-165' title='4 topics' style='font-size: 16pt;'>LCD</a> <a
+href='http://localhost:8888/tag/organizare-conferinte-si-evenimente/' class='tag-link-169' title='3 topics' style='font-size: 8pt;'>Organizare conferinte si evenimente</a> <a
+href='http://localhost:8888/tag/plata-cu-card-de-credit/' class='tag-link-68' title='4 topics' style='font-size: 16pt;'>Plata cu card de credit</a> <a
+href='http://localhost:8888/tag/restaurant/' class='tag-link-14' title='3 topics' style='font-size: 8pt;'>Restaurant</a> <a
+href='http://localhost:8888/tag/terasa/' class='tag-link-74' title='3 topics' style='font-size: 8pt;'>Terasa</a> <a
+href='http://localhost:8888/tag/uscator-de-par/' class='tag-link-166' title='3 topics' style='font-size: 8pt;'>Uscator de par</a></div></div><div
+class="column" style="margin-right:0;width:220px"><h2>Newsletter</h2><p
+style="font-size:12px"> Daca doriti sa primiti ultimele stiri din partea noastra, introduceti adresa diumneavoastra de email.</p><form> <input
+class="rounded newsicon" style="width:140px" type="email" name="newletter" > <input
+type="submit" id="newsbutton"  value="OK"></form><p> <a
+href="#"><img
+width="39" height="39" alt="Facebook" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAnCAYAAACMo1E1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDowMjgwMTE3NDA3MjA2ODExODA4M0ZEM0M2ODVGNjQxRCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDoxM0UyRTUyNEI3MzMxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDoxM0UyRTUyM0I3MzMxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MjZGOTczOTZFNTIwNjgxMTgwODNGRDNDNjg1RjY0MUQiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDI4MDExNzQwNzIwNjgxMTgwODNGRDNDNjg1RjY0MUQiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz5WFbxHAAABwUlEQVR42uyYPUvDQBjHL400Lg61tYqIm7iouIi4iTroFxDBQboqfgQ/hKCTk4NL8QMIxZdF3EWpgw6+oHYpSG1VMIn/Bx4hSC9pJJdkuAd+IZe73P3IXS53Ea7rClAEZWC7yQW1fQgG2UkYOOSFENegX6Qj6mAMvGRw2E+RGEUvKNMJPTk3hgbvQQ00AbVnglEw4HPPRJdCoRuwDY7BLUt5YwPs+Nw/pUruDMwDx6eMHVCHkVEg9gaWAsQosgH5tgq5A/DZQblaUAEV3Xruk7cOpsEXGElCTvZEVsBumIpUdKtsoM+ErSgqOUdy7o3XEG+qiGoSPgElYPHk+gBabcr1gCEWo/xFsOdTbymKMVdnoaBogKonfRlHt5r/vM+K422lRrppiHD6w6etLH/GiHwccgvgkeWIVXDUptwm2OIXxu3gCxGJHDVS8KQLknJ9IJf0PCfr1mZS85yS0HJaTstpOS2n5bRc+uUakuutsG4q9q1F3sz8jVzIekwVv8BoPfctWZRaIeqZJbkKL7XTFE9gmMbcGnhPmdwy7TNI7hlMgtMUSF2BOXDxu+P3ZtIfoHEeH05MQgbvxu5AxZvxI8AAGL7xWL5Kas8AAAAASUVORK5CYII=" /></a> <a
+href="#"><img
+width="39" height="39" alt="twitter" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAnCAYAAACMo1E1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDowMjgwMTE3NDA3MjA2ODExODA4M0ZEM0M2ODVGNjQxRCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDoxM0UyRTUyOEI3MzMxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDoxM0UyRTUyN0I3MzMxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MjJGOTczOTZFNTIwNjgxMTgwODNGRDNDNjg1RjY0MUQiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDI4MDExNzQwNzIwNjgxMTgwODNGRDNDNjg1RjY0MUQiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz440PVwAAACO0lEQVR42syYv0scQRTH536qUTFqcoErxIAIERMUPRJMI2qChahptBIvf4P+CXZap0rwZyGelVbhihMsbCwM5CwESZMfpFBBRSHxXL8P3sFy5Jh37kx2H3x2lnuzt19mZue9ecpxHAUSYAMUHP+M3r0JkqxJhXBpVkrlwRMVDDsFneBXGJflAAkjawIbdEMj5wgfOuYRbgFd/0Hki7Cw4zRoA2Ogm9sry+JSEnGTYKXkty0wYllcSCfuoDj//7AcOLIorqATt6vxf7c5dDpxVRr/Hz/FVWv8t36K0728yaa4qEdxc6AXXIPiflkoeZYGIMLtIzAK2kXqNPHuYzHOGWZJEGvTuml1LM1YGnzzuuYci0tqPcjifgdZ3LBXcbZsVCIu6lF8lPsUXFtIuUhDG/pjMA7mTexzOsuAPvAX3JQsBWpDzANQA+pMbsIRjb8VJPwKXzFBvu9bbI0HOfDrpvXMT3EPNf5VP8U91/i3wQdrhwjB0TAF9jV93oFB0AhqeTmEXNtJmD+uBv4/ib1XgtRl0XC61AG+SFIm6aE6SeUBgzNWD35wW3bkpLE1Y3g5XYA1U4H/NVgwLDBvMiuZkQZsofWYTplmwWfwzKMwOuBM6bTdJ597Cw7BJ/CGt45K7BXYkSQdlZTAytkJ10zoaz7n6lOMczi3AEqZnip5+ayfxGVxM6SCZVSDaaFppdrbZcDETVB0IXE/eahzARD1FQyAvWJsdTtfcrCP287V3PGdYzCVdbNux50AAwA0xwskI/r60gAAAABJRU5ErkJggg==" /></a> <a
+href="#"><img
+width="39" height="39" alt="mail" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAnCAYAAACMo1E1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDowMjgwMTE3NDA3MjA2ODExODA4M0ZEM0M2ODVGNjQxRCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo2RUVGNzlCN0I3NEIxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo2RUVGNzlCNkI3NEIxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MjJGOTczOTZFNTIwNjgxMTgwODNGRDNDNjg1RjY0MUQiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDI4MDExNzQwNzIwNjgxMTgwODNGRDNDNjg1RjY0MUQiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6tKzpSAAACsElEQVR42syYPWgUQRiG5zbnJRJJEeVizhgigqhoEgR/KgsrDWphIVqIWtjZiAiiliqSOgRS2ohEG4tooSAoItpIgv9GYvwtDIKoBCSX9f3gnfCx7N7tbm7X+eC5nezs3j6ZuZn5Zo3v+waUwSio+v8v5Nk3QYVOpoCP5caYF6DDuBE/wCbwzcPHVYfEJNrBqBSk5XzjZvR6xt3Y6rJcwWW5alH9MQUugibwk6Mmj+gE4rECXGbZBAfEQ7CT5WawCsxk2W0Ue63OzYIWlo/rlmtW5S4wmUOrfQdllssUXgj9m5tj5TD4BSrS7xmKfaDQYXCWveRHyRlW7gPTMkPz5j8ZiElXrgGbwTWwEswHLwobrU/Y75McFN0NFhSxDRSb4Ll3YReGyS3hcW0GglasV4lJlOLK6WikoBYbj3NDnEm4EYKJxeLKLVbwVRqxJHJBwZ6YgtJiG9OIJZWzgp+4xPXVEXzDa/amEUsjZ1cPWebe12hBEVsP/oLdaUdQGjmZ0W+AIc7qlUCSMEExkboCTnJBTxzFFGLXwRgYAPs5QGQfMgJ+g9NgB7jDe+QfOM/yuURPU7ufR9z13IrYHR1i/Vjg/AzotzsmcCLk3jOsuxTx3adYP6vOHSumbDEd0mrPwFPQxi4NxiCPiVqwuEgxHdvqfE9iwTC5uRCx22BPA9ZWLegr0Wpcuc6MxIKCF5RoWz05m+gtY/KXhViY4DpORzXlbPkA+MKEszvDTHiQrx0O8jntteRsJirr5xbwgOWs3ghI3riaie1HlUeGyrVwWpB9xEtwJMd3I63cEnhRcn1c1Atsrfmc5Dx1LEXJSeVSh3b8nsuvI5pclnsrcvccFPsss4XIHWWq41LI3OeL3FfQD+47IPUc7AKP7VsmXbmdO/FSjlOJnbok7b+rK/4JMADDWbxR1kaskwAAAABJRU5ErkJggg==" /></a> <a
+href="#"><img
+width="39" height="39" alt="rss" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAnCAYAAACMo1E1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDowMjgwMTE3NDA3MjA2ODExODA4M0ZEM0M2ODVGNjQxRCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo2RUVGNzlCQkI3NEIxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo2RUVGNzlCQUI3NEIxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MjJGOTczOTZFNTIwNjgxMTgwODNGRDNDNjg1RjY0MUQiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDI4MDExNzQwNzIwNjgxMTgwODNGRDNDNjg1RjY0MUQiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz50rGtHAAADIklEQVR42syYb2iNURzHH/deF8PdCwstDWH+tLL5c7WyV0jsxXSVhCYrvMGLodBeKBMhoiTxZkVSEjeUtldSkn+7W5p/w0VW2tow3Zltj++p31On45xznz/3uZ5ffZ77POf5nXO/55zf+fMcwzRNg6gGd0CfmX/rBy1gI6fHsG6OmMGxy7y4tWbwbBcTNwqXp4ZhLDaCZf1gNhP3GzdRI3i2LoRLyAimjYngMgQilPABHASFoBiUgFIwFxTlWdxQREjoBtcljgWgDFSBVWAFVyHfjMVcBr9j6bkNLLSRbxpIgK1gkU/a1ruNty/gHI3yGpDyQ50o7o+LMpKgHNSDH36KGw9mgakuRvEZMAfc8Cvm+Bb8Bt5Tlz0CD8Enm+XuAye9xhxbvjIOlpX7oBaE+AVaQcLjEpZwKs6yj2C3DYFe1u2EGFcZ6sq+LE0+nUZrK1iu8bsHal13rNByz6nGE0EZ2ABOg2dZankoSwueykW3tmr+gIk9BroVhTVlEfjCq7iUjTiKgUZFgc2afMVeY86OsYm2AcTBV+HdSnBVkY/5NnqJucc2Wo6nkG1WJbXeo8nT67blZoLDoA4stVG379SCHUL6WTBfM0G7ajnR0uA8iGdpwSIwKOR9o/HvzPUknASlmj+skeTZqfCt82OFGAabNAKvCf4/QVjiFwUDuR6tIRqNOxTvt9G237IJCt9BcMvplsmuXQTLJOkDNBh4q1eUcdPtgGBHEvtBJe0ubkt8uhRdO1niWyHxmwRGnMZcDyiRFHZcUsB2hcAWwe+owq/dacw1KDaVByQrgqrLxHhS7VxSTmMuqfFvFp7nKSbbB8JzuWS3zeyVU3EjGv8CSVq1JO0l6OWeY/RhLtrnbOLC/+zd5cb8VkvS45K0YfBOskEVrUenTdZyJ8ASIW00uEstINoMReFpGz2S1n18sSOFt2ABlzgOPAGXQDuYArYoam6JWyPOUHTOwluV0NXMKjXiOgz6mgqaNVmHh0zlFbA5IEdfr+mY45cVc6zb9oLO/yiKffFdABVMmPXFzztESXWMAtjMg6gwbQTYnNfFv/grwAA0gtdR8+nqLQAAAABJRU5ErkJggg==" /></a></p></div> </section> <section><div
+style="width:500px;height:1px;background:#004156; display:block; margin-left:auto;margin-right:auto; border-bottom:1px solid #02a3d4"></div> <nav
+id="footernav"><ul><li><a
+href="/">Home</a></li><li><a
+href="/tip/hotel">Cauta Hotel</a></li><li><a
+href="/tip/pensiune">Cauta Pensiune</a></li><li><a
+href="/tip/restaurant">Cauta Restaurant</a></li><li><a
+href="/adauga-anunt/">Adauga Anunt</a></li><li><a
+href="#">Termeni si conditii</a></li><li><a
+href="/contact">Contact</a></li><li><a
+href="#">Sitemap</a></li></ul> </nav><p
+style="text-align:center">© 2013 TouristClub.ro</p> </section> </footer><script type="text/javascript">__FRMRULES={"316":[{"Show":"show","MatchType":"any","Setting":{"FieldName":"294"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Hotel","Type":"select"}]},{"Show":"show","MatchType":"any","Setting":{"FieldName":"317"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Pensiune","Type":"select"}]},{"Show":"show","MatchType":"any","Setting":{"FieldName":"300"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Hotel","Type":"select"},{"FieldName":"316","Condition":"==","Value":"Pensiune","Type":"select"}]},{"Show":"show","MatchType":"any","Setting":{"FieldName":"300"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Hotel","Type":"select"},{"FieldName":"316","Condition":"==","Value":"Pensiune","Type":"select"}]},{"Show":"show","MatchType":"any","Setting":{"FieldName":"320"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Restaurant","Type":"select"}]},{"Show":"show","MatchType":"any","Setting":{"FieldName":"299"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Hotel","Type":"select"},{"FieldName":"316","Condition":"==","Value":"Pensiune","Type":"select"}]},{"Show":"show","MatchType":"any","Setting":{"FieldName":"299"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Hotel","Type":"select"},{"FieldName":"316","Condition":"==","Value":"Pensiune","Type":"select"}]},{"Show":"show","MatchType":"any","Setting":{"FieldName":"301"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Hotel","Type":"select"},{"FieldName":"316","Condition":"==","Value":"Pensiune","Type":"select"}]},{"Show":"show","MatchType":"any","Setting":{"FieldName":"301"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Hotel","Type":"select"},{"FieldName":"316","Condition":"==","Value":"Pensiune","Type":"select"}]},{"Show":"show","MatchType":"any","Setting":{"FieldName":"296"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Hotel","Type":"select"},{"FieldName":"316","Condition":"==","Value":"Pensiune","Type":"select"}]},{"Show":"show","MatchType":"any","Setting":{"FieldName":"296"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Hotel","Type":"select"},{"FieldName":"316","Condition":"==","Value":"Pensiune","Type":"select"}]}]};__FRMURL='http://localhost:8888/index.php?plugin=formidable';jQuery(document).ready(function($){if($.isFunction($.on)){$(document).on('submit','.frm-show-form',function(e){e.preventDefault();if(jQuery(this).find('.wp-editor-wrap').length){tinyMCE.triggerSave();}frmGetFormErrors(this);});}else{$('.frm-show-form').live('submit',function(e){e.preventDefault();if(jQuery(this).find('.wp-editor-wrap').length){tinyMCE.triggerSave();}frmGetFormErrors(this);});}
+$('#frm_field_294_container').hide();frmCheckDependent($('#field_o3rbg1').val(),316);});</script></body></html>

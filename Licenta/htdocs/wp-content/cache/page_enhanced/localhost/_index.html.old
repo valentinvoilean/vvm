@@ -1,0 +1,303 @@
+<!DOCTYPE html><html
+lang="en-US"><head><link
+rel="stylesheet" type="text/css" href="http://localhost:8888/wp-content/cache/minify/000000/TYxBDoAgDMA-BBk-CWHiDMJkI4bfS7zorT20DoIIdLKZ0q4FpxxXxzZsJ-NAdGQ0N9tQi2JR6JyrjwJbbSdFv2Z8B59yq2aBWbBPVLzinx8.css" media="all" /><script type="text/javascript" src="http://localhost:8888/wp-content/cache/minify/000000/M9DPKtbPKixNLarUNdSz1DPUMUASKc2EcDNSE1NSi3Qz8nNTdYuTizILSoohErn5QPG8zKoiHWOoHiCjNBPK1ivN1EvOL0rVy83MAwA.js"></script><meta
+charset="UTF-8" /><title></title><meta
+name="description" content="Just another WordPress site"><link
+rel="profile" href="http://gmpg.org/xfn/11" /><link
+rel="pingback" href="http://localhost:8888/xmlrpc.php" /> <!--[if gte IE 9]><style type="text/css">.gradient{filter:none}</style><![endif]--><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost:8888/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost:8888/wp-includes/wlwmanifest.xml" /><meta
+name="generator" content="WordPress 3.5.1" /><style type="text/css">.recentcomments
+a{display:inline !important;padding:0
+!important;margin:0
+!important}</style><script type="text/javascript">$(function(){$("#oras").autocomplete({source:"/wp-content/themes/TouristClub/scripts/search.php",minLength:2,select:function(event,ui){if(ui.item.value.indexOf(",")>=0){$('input#denumirehotel').val(ui.item.id);$('input[type="submit"]').removeAttr('disabled');}
+else{$('input#denumireoras').val(ui.item.id);$('input[type="submit"]').removeAttr('disabled');};}});$("#oras3").autocomplete({source:"/wp-content/themes/TouristClub/scripts/search2.php",minLength:2,select:function(event,ui){if(ui.item.value.indexOf(",")>=0){$('input#denumirepensiune').val(ui.item.id);$('input[type="submit"]').removeAttr('disabled');}
+else{$('input#denumireoras2').val(ui.item.id);$('input[type="submit"]').removeAttr('disabled');};}});});</script></head><body> <header> <section><div
+id="logo" onClick="window.location='/'" title="Tourist Club Hoteluri Restaurante"><div
+id="logoimage"></div><div
+style="float:right; "> <span
+style="font-size:30px; text-shadow: 2px 2px rgba(0, 0, 0, 0.5); font-weight:bold">Tourist</span> <span
+style="font-size:30px; background:#fff; color:#0189b3;padding-left:5px;padding-right:5px; font-weight:bold">Club</span><br> <span
+style="font-size:14px; margin-left:5px;line-height:20px">Hoteluri, Restaurante</span></div></div><div
+style="float:right"> <nav
+id="topnav"><ul><li><a
+href="/adauga-anunt/" style="color:#02ade1; background:#fff;padding:0 2px 0 2px">Adauga anunt</a></li><li><a
+href="/wp-login.php/">Login</a></li><li><a
+href="/cont-nou/">Cont Nou</a></li></ul> </nav><form
+id="top-search-form" style="float:right;margin-top:5px; position:relative" action="/tip/hotel"><table><tbody><tr><td> <input
+id="select-oras" class="rounded oras" type="text"  placeholder="Introdu localitatea"></td><td> <select
+name="tip" id="tip_search"><option
+value="hotel">Hotel</option><option
+value="pensiune">Pensiune</option><option
+value="restaurant">Restaurant</option> </select></td><td> <input
+type="submit" id="cautabtn" value="Cauta"></td></tr><tr
+style="font-size:12px; color:#fff"><td>Alege o destinatie</td><td>Ce cauti?</td><td></td></tr></tbody
+></table></form></div> </section> </header><div
+id="homegallery"><div
+id="searchbgd"> <section><h1>Alege o destinatie... oriunde !</h1><h2>Descopera cea mai buna vacanta alaturi de TouristClub</h2><div
+id="tabs"><ul><li><a
+href="#tabs-1">Hoteluri</a></li><li><a
+href="#tabs-2">Pensiuni</a></li><li><a
+href="#tabs-3">Restaurante</a></li></ul><div
+id="tabs-1"><form
+id="search-form" action="/tip/hotel/"> <input
+id="oras" type="text"  placeholder="Introduceti Localitatea sau numele Hotelului"> <input
+id="denumirehotel" type="hidden" name="denumire" > <input
+id="denumireoras" type="hidden" name="oras" > <input
+type="submit" disabled class="searchsubmit" value="Cauta Hotel"></form></div><div
+id="tabs-2"><form
+id="search-form2" action="/tip/pensiune/"> <input
+id="oras3" type="text"  placeholder="Introduceti Localitatea sau numele Pensiunii"> <input
+id="denumirepensiune" type="hidden" name="denumire" > <input
+id="denumireoras2" type="hidden" name="oras" > <input
+type="submit" disabled class="searchsubmit" value="Cauta Pensiune"></form></div><div
+id="tabs-3"><form
+id="search-form3" action="/tip/restaurant"> <input
+name="oras" id="oras2" type="text"  placeholder="Introduceti Localitatea"> <select
+id="specialitate" name="specific"><option
+value="">Specialitate..</option><option
+value="American">Specific American</option><option
+value="Arabesc">Specific Arabesc</option><option
+value="Belgian">Specific Belgian</option><option
+value="Brazilian">Specific Brazilian</option><option
+value="Chinezesc">Specific Chinezesc</option><option
+value="Frantuzesc">Specific Frantuzesc</option><option
+value="Grecesc">Specific Grecesc</option><option
+value="Indian">Specific Indian</option><option
+value="International">Specific International</option><option
+value="Italian">Specific Italian</option><option
+value="Japonez">Specific Japonez</option><option
+value="Libanez">Specific Libanez</option><option
+value="Mediteranean">Specific Mediteranean</option><option
+value="Mexican">Specific Mexican</option><option
+value="Mongol">Specific Mongol</option><option
+value="Oriental">Specific Oriental</option><option
+value="Portughez">Specific Portughez</option><option
+value="Romanesc">Specific Romanesc</option><option
+value="Sud-american">Specific Sud-American</option><option
+value="Turcesc">Specific Turcesc</option><option
+value="Unguresc">Specific Unguresc</option><option
+value="Vegetarian">Specific Vegetarian</option><option
+value="Fast-food">Fast Food</option><option
+value="Pescaresc-marin">Specific Pescaresc-Marin</option><option
+value="Pizzerie">Pizzerie</option> </select> <input
+type="hidden" name="tip" value="Restaurant"> <input
+type="submit" class="searchsubmit" value="Cauta Restaurant"></form></div></div> </section></div></div> <nav
+id="bignav"><ul><li
+class="currentpage"><a
+href="/">Acasa</a></li><li><img
+src=" http://localhost:8888/wp-content/themes/TouristClub/images/separator.gif" alt="separator" width="2" height="19"></li><li><a
+href="#">Cazare</a><ul><li><a
+href="/hoteluri">Cauta Hoteluri</a></li><li><a
+href="/pensiuni">Cauta Pensiuni</a></li></ul></li><li><img
+src=" http://localhost:8888/wp-content/themes/TouristClub/images/separator.gif" alt="separator" width="2" height="19"></li><li><a
+href="/restaurante">Restaurante</a></li><li><a
+href="/contact">Contact</a></li><li><img
+src=" http://localhost:8888/wp-content/themes/TouristClub/images/separator.gif" alt="separator" width="2" height="19"></li><li><a
+href="/faq">Intrebari Frecvente</a></li></ul> </nav><section> <article
+class="floatleft"><div
+style="border-bottom:1px solid #e3e3e3; overflow:hidden; margin:10px 0 30px"><h1 class="floatleft"><a
+href="/tip/hotel"><img
+src="http://localhost:8888/wp-content/themes/TouristClub/images/hotel.jpg" width="22" height="22" alt="Ultimele Hoteluri" ></a> <a
+href="/tip/hotel">Ultimele Hoteluri</a></h1> <a
+style="margin-top:10px;float:right" href="/tip/hotel">Vezi toate</a></div><div
+style="overflow: hidden"><table><tr><td
+style="width:140px;padding:0px 5px"><div
+style="width:130px;height:130px;padding:4px; border:1px solid #e3e3e3; position:relative"> <a
+href="http://localhost:8888/hotel/hotel-continental/"><img
+width="130" height="130" src="http://localhost:8888/wp-content/uploads/formidable/2008.05.13-Hotel-Continental-Forum-0011-150x150.jpg" class="attachment-130x130 wp-post-image" alt="2008.05.13-Hotel-Continental-Forum-001" /></a> <a
+href="http://localhost:8888/hotel/hotel-continental/#tabs-2" style="width:80px; height:20px; position:absolute; bottom:11px; right:10px; background: rgba(255,255,255,0.8); text-align:center; font-size:10px; font-weight:bold">Nota: 9.50</a></div></td><td
+style="width:140px;padding:0px 5px"><div
+style="width:130px;height:130px;padding:4px; border:1px solid #e3e3e3; position:relative"> <a
+href="http://localhost:8888/hotel/hotel-ibis/"><img
+width="130" height="130" src="http://localhost:8888/wp-content/uploads/formidable/camera_14-150x150.jpg" class="attachment-130x130 wp-post-image" alt="camera_1" /></a> <a
+href="http://localhost:8888/hotel/hotel-ibis/#tabs-2" style="width:80px; height:20px; position:absolute; bottom:11px; right:10px; background: rgba(255,255,255,0.8); text-align:center; font-size:10px; font-weight:bold">Nota: 8.05</a></div></td></tr><tr><td
+style="width:140px;padding:0 5px"><h4 style="line-height:14px;margin-top:5px; font-size:14px"><a
+style="color:#69d2e7; font-weight:bold" href="http://localhost:8888/hotel/hotel-continental/">Hotel Continental</a></h4></td><td
+style="width:140px;padding:0 5px"><h4 style="line-height:14px;margin-top:5px; font-size:14px"><a
+style="color:#69d2e7; font-weight:bold" href="http://localhost:8888/hotel/hotel-ibis/">Hotel Ibis</a></h4></td></tr><tr><td
+style="width:140px;padding:0 5px"><div
+style="clear:both;line-height:14px; font-size:10px; padding:3px 0 "><a
+href="/tip/hotel/?oras=Fagaras">Fagaras</a>, jud. <a
+href="/tip/hotel/?judet=brasov" style="color:#f38630; font-weight:bold">Brasov</a></div><div
+style="clear:both; margin-top:-5px; overflow:hidden"><div
+class="star"></div><div
+class="star"></div><div
+class="star"></div><div
+class="star"></div><div
+class="star"></div></div></td><td
+style="width:140px;padding:0 5px"><div
+style="clear:both;line-height:14px; font-size:10px; padding:3px 0 "><a
+href="/tip/hotel/?oras=Sibiu">Sibiu</a>, jud. <a
+href="/tip/hotel/?judet=sibiu" style="color:#f38630; font-weight:bold">Sibiu</a></div><div
+style="clear:both; margin-top:-5px; overflow:hidden"><div
+class="star"></div><div
+class="star"></div><div
+class="star"></div><div
+class="star"></div></div></td></tr><tr><td
+style="width:140px;padding:0 5px"><div
+style="clear:both; font-size:10px;margin-top:5px; line-height:14px;">Hotelul Continental Forum din Sibiu, gazduit de o cladire monument istoric ce dateaza din anul [...]</div></td><td
+style="width:140px;padding:0 5px"><div
+style="clear:both; font-size:10px;margin-top:5px; line-height:14px;">Este amplasat in centru vechi al orasului, la numai cateva minute de mers pe jos [...]</div></td></tr><tr><td
+style="width:140px;padding:0 5px"><table
+style="margin-top:5px; border-top:1px solid #e3e3e3; border-bottom:1px solid #e3e3e3; width:140px"><tr><td><img
+src="http://localhost:8888/wp-content/themes/TouristClub/images/stea-pareri.jpg" width="15" height="14" alt="pareri" /></td><td><a
+style="color:#bcbcbc" href="http://localhost:8888/hotel/hotel-continental/#tabs-2">1 vot</a></td><td
+style="text-align:right"><a
+style="color:#f38630" href="http://localhost:8888/hotel/hotel-continental/">Mai mult..</a></td></tr></table></td><td
+style="width:140px;padding:0 5px"><table
+style="margin-top:5px; border-top:1px solid #e3e3e3; border-bottom:1px solid #e3e3e3; width:140px"><tr><td><img
+src="http://localhost:8888/wp-content/themes/TouristClub/images/stea-pareri.jpg" width="15" height="14" alt="pareri" /></td><td><a
+style="color:#bcbcbc" href="http://localhost:8888/hotel/hotel-ibis/#tabs-2">7 voturi</a></td><td
+style="text-align:right"><a
+style="color:#f38630" href="http://localhost:8888/hotel/hotel-ibis/">Mai mult..</a></td></tr></table></td></tr></table></div><div
+style="border-bottom:1px solid #e3e3e3; overflow:hidden; margin-bottom:30px; margin-top:50px"><h1 class="floatleft"><a
+href="/tip/pensiune"><img
+src="http://localhost:8888/wp-content/themes/TouristClub/images/hotel.jpg" width="22" height="22" alt="Ultimele Hoteluri" ></a> <a
+href="/tip/pensiune">Ultimele Pensiuni</a></h1> <a
+style="margin-top:10px;float:right" href="/tip/pensiune">Vezi toate</a></div><div
+style="overflow: hidden"><table><tr><td
+style="width:140px;padding:0px 5px"><div
+style="width:130px;height:130px;padding:4px; border:1px solid #e3e3e3; position:relative"> <a
+href="http://localhost:8888/pensiune/pensiunea-amso/"><img
+width="130" height="130" src="http://localhost:8888/wp-content/uploads/formidable/81092-150x150.jpg" class="attachment-130x130 wp-post-image" alt="81092" /></a> <a
+href="http://localhost:8888/pensiune/pensiunea-amso/#tabs-2" style="width:80px; height:20px; position:absolute; bottom:11px; right:10px; background: rgba(255,255,255,0.8); text-align:center; font-size:10px; font-weight:bold">Nota: 8.67</a></div></td></tr><tr><td
+style="width:140px;padding:0 5px"><h4 style="line-height:14px;margin-top:5px; font-size:14px"><a
+style="color:#69d2e7; font-weight:bold" href="http://localhost:8888/pensiune/pensiunea-amso/">Pensiunea Amso</a></h4></td></tr><tr><td
+style="width:140px;padding:0 5px"><div
+style="clear:both;line-height:14px; color:#f38630; font-size:10px; padding:3px 0 "><a
+href="/tip/pensiune/?oras=Sibiu">Sibiu</a>, jud. <a
+href="/tip/pensiune/?judet=sibiu" style="color:#f38630; font-weight:bold">Sibiu</a></div><div
+style="clear:both; margin-top:-5px; overflow:hidden"><div
+class="margareta"></div><div
+class="margareta"></div><div
+class="margareta"></div></div></td></tr><tr><td
+style="width:140px;padding:0 5px"><div
+style="clear:both; font-size:10px;margin-top:5px; line-height:14px;">Cele 8 apartamente ale pensiunii, deşi respectă aceeaşi structură: dormitor, baie, living, bucătărie, balcon, au [...]</div></td></tr><tr><td
+style="width:140px;padding:0 5px"><table
+style="margin-top:5px; border-top:1px solid #e3e3e3; border-bottom:1px solid #e3e3e3; width:140px"><tr><td><img
+src="http://localhost:8888/wp-content/themes/TouristClub/images/stea-pareri.jpg" width="15" height="14" alt="pareri" /></td><td><a
+style="color:#bcbcbc" href="http://localhost:8888/pensiune/pensiunea-amso/#tabs-2">3 voturi</a></td><td
+style="text-align:right"><a
+style="color:#f38630" href="http://localhost:8888/pensiune/pensiunea-amso/">Mai mult..</a></td></tr></table></td></tr></table></div><div
+style="border-bottom:1px solid #e3e3e3; overflow:hidden; margin-bottom:30px; margin-top:50px"><h1 class="floatleft"><a
+href="/tip/restaurant"><img
+src="http://localhost:8888/wp-content/themes/TouristClub/images/restaurant.jpg" width="27" height="22" alt="Ultimele Restaurante" ></a> <a
+href="/tip/restaurant">Ultimele Restaurante</a></h1> <a
+style="margin-top:10px;float:right" href="/tip/restaurant">Vezi toate</a></div><div
+style="overflow: hidden"><table><tr><td
+style="width:140px;padding:0px 5px"><div
+style="width:130px;height:130px;padding:4px; border:1px solid #e3e3e3; position:relative"> <a
+href="http://localhost:8888/restaurant/restaurant-bolta-rece/"><img
+width="130" height="130" src="http://localhost:8888/wp-content/uploads/formidable/ev_01-150x150.jpg" class="attachment-130x130 wp-post-image" alt="ev_01" /></a> <a
+href="http://localhost:8888/restaurant/restaurant-bolta-rece/#tabs-2" style="width:80px; height:20px; position:absolute; bottom:11px; right:10px; background: rgba(255,255,255,0.8); text-align:center; font-size:10px; font-weight:bold">Nota: 6.80</a></div></td></tr><tr><td
+style="width:140px;padding:0 5px"><h4 style="line-height:14px;margin-top:5px; font-size:14px"><a
+style="color:#69d2e7; font-weight:bold" href="http://localhost:8888/restaurant/restaurant-bolta-rece/">Restaurant Bolta Rece</a></h4></td></tr><tr><td
+style="width:140px;padding:0 5px"><div
+style="clear:both;line-height:14px; color:#f38630; font-size:10px; padding:3px 0 "><a
+href="/tip/restaurant/?oras=Sibiu">Sibiu</a>, jud. <a
+href="/tip/restaurant/?judet=sibiu" style="color:#f38630; font-weight:bold">Sibiu</a></div></td></tr><tr><td
+style="width:140px;padding:0 5px"><div
+style="clear:both; font-size:10px;margin-top:5px; line-height:14px;">Restaurantul Bolta Rece localizat in incinta Parcului &#8220;Sub Arini&#8221;, dispune de un spatiu de servire [...]</div></td></tr><tr><td
+style="width:140px;padding:0 5px"><table
+style="margin-top:5px; border-top:1px solid #e3e3e3; border-bottom:1px solid #e3e3e3; width:140px"><tr><td><img
+src="http://localhost:8888/wp-content/themes/TouristClub/images/stea-pareri.jpg" width="15" height="14" alt="pareri" /></td><td><a
+style="color:#bcbcbc" href="http://localhost:8888/restaurant/restaurant-bolta-rece/#tabs-2">1 vot</a></td><td
+style="text-align:right"><a
+style="color:#f38630" href="http://localhost:8888/restaurant/restaurant-bolta-rece/">Mai mult..</a></td></tr></table></td></tr></table></div> </article> <aside
+class="floatright"><div
+id="comments-wrapper"><div
+style="border-bottom:1px solid #e3e3e3; overflow:hidden; margin-bottom:30px"><h1 class="floatleft"><img
+style="margin-right:5px"" src="http://localhost:8888/wp-content/themes/TouristClub/images/ultimele-pareri.gif" width="21" height="23" alt="Ultimele Hoteluri" >Ultimele Pareri</h1></div><ul
+id="sidebarcomments"><li><div><div
+style="clear:both; overflow:hidden;margin-bottom:10px"><div
+class="part1"> <span><b>Edgar</b>, despre</span><br><h4><a
+href="http://localhost:8888/pensiune/pensiunea-amso/">Pensiunea Amso</a></h4><p
+style="line-height:14px; color:#f38630; font-size:10px;"><a
+style=";" href="/tip/hotel/?oras=Sibiu">Sibiu</a>, jud. <a
+href="/tip/hotel/?judet=sibiu" style="color:#f38630; font-weight:bold">Sibiu</a></p><p>Calificativ: 8.16</p></div><div
+class="part2"> <a
+href="http://localhost:8888/pensiune/pensiunea-amso/"><img
+width="80" height="80" src="http://localhost:8888/wp-content/uploads/formidable/81092-150x150.jpg" class="attachment-80x80 wp-post-image" alt="81092" /></a></div></div><div
+style="clear:both; position:relative"><div
+style="position:absolute;top:0px; font-size:50px;line-height:35px; font-weight:bold; font-family:serif; ">“</div><p
+style="font-size:12px; font-style:italic; text-indent:30px;"> Pensiunea e intr-o zona foarte linistita, camerele sunt curate si dotate, personalul e foarte... <a
+class="readmore" href="http://localhost:8888/pensiune/pensiunea-amso/#tabs2">Citeste tot</a></p></div></div><hr></li><li><div><div
+style="clear:both; overflow:hidden;margin-bottom:10px"><div
+class="part1"> <span><b>Catalina</b>, despre</span><br><h4><a
+href="http://localhost:8888/pensiune/pensiunea-amso/">Pensiunea Amso</a></h4><p
+style="line-height:14px; color:#f38630; font-size:10px;"><a
+style=";" href="/tip/hotel/?oras=Sibiu">Sibiu</a>, jud. <a
+href="/tip/hotel/?judet=sibiu" style="color:#f38630; font-weight:bold">Sibiu</a></p><p>Calificativ: 7.83</p></div><div
+class="part2"> <a
+href="http://localhost:8888/pensiune/pensiunea-amso/"><img
+width="80" height="80" src="http://localhost:8888/wp-content/uploads/formidable/81092-150x150.jpg" class="attachment-80x80 wp-post-image" alt="81092" /></a></div></div><div
+style="clear:both; position:relative"><div
+style="position:absolute;top:0px; font-size:50px;line-height:35px; font-weight:bold; font-family:serif; ">“</div><p
+style="font-size:12px; font-style:italic; text-indent:30px;"> Comoditatea pensiunii... Am fost 2 cupluri tinere si am stat 4 zile/3 nopti. Paturile foarte comode... <a
+class="readmore" href="http://localhost:8888/pensiune/pensiunea-amso/#tabs2">Citeste tot</a></p></div></div><hr></li><li><div><div
+style="clear:both; overflow:hidden;margin-bottom:10px"><div
+class="part1"> <span><b>Andrei</b>, despre</span><br><h4><a
+href="http://localhost:8888/hotel/hotel-continental/">Hotel Continental</a></h4><p
+style="line-height:14px; color:#f38630; font-size:10px;"><a
+style=";" href="/tip/hotel/?oras=Fagaras">Fagaras</a>, jud. <a
+href="/tip/hotel/?judet=brasov" style="color:#f38630; font-weight:bold">Brasov</a></p><p>Calificativ: 9.5</p></div><div
+class="part2"> <a
+href="http://localhost:8888/hotel/hotel-continental/"><img
+width="80" height="80" src="http://localhost:8888/wp-content/uploads/formidable/2008.05.13-Hotel-Continental-Forum-0011-150x150.jpg" class="attachment-80x80 wp-post-image" alt="2008.05.13-Hotel-Continental-Forum-001" /></a></div></div><div
+style="clear:both; position:relative"><div
+style="position:absolute;top:0px; font-size:50px;line-height:35px; font-weight:bold; font-family:serif; ">“</div><p
+style="font-size:12px; font-style:italic; text-indent:30px;"> Locatie si amenajari excelente, ospitaliate, mancare mult mai buna decat la mama acasa:). Tot ce am... <a
+class="readmore" href="http://localhost:8888/hotel/hotel-continental/#tabs2">Citeste tot</a></p></div></div><hr></li></ul></div><div
+class="textwidget"><div
+style="margin-bottom:20px"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-5880853293233753";
+/* AnuntGarantat1 */
+google_ad_slot = "5533418333";
+google_ad_width = 300;
+google_ad_height = 250;
+//--></script><script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div></div><div
+class="textwidget"><iframe
+src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FFacebookDevelopers&amp;width=300&amp;height=290&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;show_border=true&amp;header=true" style="border:none; overflow:hidden; width:300px; height:290px; overflow:hidden; border:0;background-color:transparent"></iframe></div> </aside> </section> <footer> <section><div
+class="column"><h2>Despre TouristClub</h2><p> - cel mai popular site de rezervari directe conf. trafic.ro,<br> - peste 5.500 de unitati de cazare din toata Romania,<br> - detalii complete si poze din fiecare camera,<br> - 13777 recenzii la hoteluri si pensiuni,<br> - tarife de cazare actualizate zilnic,<br> - contact direct cu hotelierii, fara intermediari,<br> - cele mai mici preturi la cazare, fara comision.</p></div><div
+class="column"><h2>Ultimele unitati inscrise</h2><p> <a
+href="http://localhost:8888/hotel/hotel-continental/">Hotel Continental (01-06-2013)</a><br> <a
+href="http://localhost:8888/pensiune/pensiunea-amso/">Pensiunea Amso (30-05-2013)</a><br> <a
+href="http://localhost:8888/restaurant/restaurant-bolta-rece/">Restaurant Bolta Rece (30-05-2013)</a><br> <a
+href="http://localhost:8888/hotel/hotel-ibis/">Hotel Ibis (30-05-2013)</a><br></p></div><div
+class="column"><h2>Tag Cloud</h2><div
+style="height:100px"> <a
+href='http://localhost:8888/tag/acces-persoane-cu-dizabilitati/' class='tag-link-180' title='4 topics' style='font-size: 16pt;'>Acces persoane cu dizabilitati</a> <a
+href='http://localhost:8888/tag/aer-conditionat-6/' class='tag-link-187' title='4 topics' style='font-size: 16pt;'>Aer Conditionat</a> <a
+href='http://localhost:8888/tag/baie-cu-cada/' class='tag-link-76' title='3 topics' style='font-size: 8pt;'>baie cu cada</a> <a
+href='http://localhost:8888/tag/cabina-dus/' class='tag-link-167' title='3 topics' style='font-size: 8pt;'>Cabina dus</a> <a
+href='http://localhost:8888/tag/lcd/' class='tag-link-165' title='4 topics' style='font-size: 16pt;'>LCD</a> <a
+href='http://localhost:8888/tag/organizare-conferinte-si-evenimente/' class='tag-link-169' title='3 topics' style='font-size: 8pt;'>Organizare conferinte si evenimente</a> <a
+href='http://localhost:8888/tag/plata-cu-card-de-credit/' class='tag-link-68' title='4 topics' style='font-size: 16pt;'>Plata cu card de credit</a> <a
+href='http://localhost:8888/tag/restaurant/' class='tag-link-14' title='3 topics' style='font-size: 8pt;'>Restaurant</a> <a
+href='http://localhost:8888/tag/terasa/' class='tag-link-74' title='3 topics' style='font-size: 8pt;'>Terasa</a> <a
+href='http://localhost:8888/tag/uscator-de-par/' class='tag-link-166' title='3 topics' style='font-size: 8pt;'>Uscator de par</a></div></div><div
+class="column" style="margin-right:0;width:220px"><h2>Newsletter</h2><p
+style="font-size:12px"> Daca doriti sa primiti ultimele stiri din partea noastra, introduceti adresa diumneavoastra de email.</p><form> <input
+class="rounded newsicon" style="width:140px" type="email" name="newletter" > <input
+type="submit" id="newsbutton"  value="OK"></form><p> <a
+href="#"><img
+width="39" height="39" alt="Facebook" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAnCAYAAACMo1E1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDowMjgwMTE3NDA3MjA2ODExODA4M0ZEM0M2ODVGNjQxRCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDoxM0UyRTUyNEI3MzMxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDoxM0UyRTUyM0I3MzMxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MjZGOTczOTZFNTIwNjgxMTgwODNGRDNDNjg1RjY0MUQiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDI4MDExNzQwNzIwNjgxMTgwODNGRDNDNjg1RjY0MUQiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz5WFbxHAAABwUlEQVR42uyYPUvDQBjHL400Lg61tYqIm7iouIi4iTroFxDBQboqfgQ/hKCTk4NL8QMIxZdF3EWpgw6+oHYpSG1VMIn/Bx4hSC9pJJdkuAd+IZe73P3IXS53Ea7rClAEZWC7yQW1fQgG2UkYOOSFENegX6Qj6mAMvGRw2E+RGEUvKNMJPTk3hgbvQQ00AbVnglEw4HPPRJdCoRuwDY7BLUt5YwPs+Nw/pUruDMwDx6eMHVCHkVEg9gaWAsQosgH5tgq5A/DZQblaUAEV3Xruk7cOpsEXGElCTvZEVsBumIpUdKtsoM+ErSgqOUdy7o3XEG+qiGoSPgElYPHk+gBabcr1gCEWo/xFsOdTbymKMVdnoaBogKonfRlHt5r/vM+K422lRrppiHD6w6etLH/GiHwccgvgkeWIVXDUptwm2OIXxu3gCxGJHDVS8KQLknJ9IJf0PCfr1mZS85yS0HJaTstpOS2n5bRc+uUakuutsG4q9q1F3sz8jVzIekwVv8BoPfctWZRaIeqZJbkKL7XTFE9gmMbcGnhPmdwy7TNI7hlMgtMUSF2BOXDxu+P3ZtIfoHEeH05MQgbvxu5AxZvxI8AAGL7xWL5Kas8AAAAASUVORK5CYII=" /></a> <a
+href="#"><img
+width="39" height="39" alt="twitter" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAnCAYAAACMo1E1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDowMjgwMTE3NDA3MjA2ODExODA4M0ZEM0M2ODVGNjQxRCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDoxM0UyRTUyOEI3MzMxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDoxM0UyRTUyN0I3MzMxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MjJGOTczOTZFNTIwNjgxMTgwODNGRDNDNjg1RjY0MUQiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDI4MDExNzQwNzIwNjgxMTgwODNGRDNDNjg1RjY0MUQiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz440PVwAAACO0lEQVR42syYv0scQRTH536qUTFqcoErxIAIERMUPRJMI2qChahptBIvf4P+CXZap0rwZyGelVbhihMsbCwM5CwESZMfpFBBRSHxXL8P3sFy5Jh37kx2H3x2lnuzt19mZue9ecpxHAUSYAMUHP+M3r0JkqxJhXBpVkrlwRMVDDsFneBXGJflAAkjawIbdEMj5wgfOuYRbgFd/0Hki7Cw4zRoA2Ogm9sry+JSEnGTYKXkty0wYllcSCfuoDj//7AcOLIorqATt6vxf7c5dDpxVRr/Hz/FVWv8t36K0728yaa4qEdxc6AXXIPiflkoeZYGIMLtIzAK2kXqNPHuYzHOGWZJEGvTuml1LM1YGnzzuuYci0tqPcjifgdZ3LBXcbZsVCIu6lF8lPsUXFtIuUhDG/pjMA7mTexzOsuAPvAX3JQsBWpDzANQA+pMbsIRjb8VJPwKXzFBvu9bbI0HOfDrpvXMT3EPNf5VP8U91/i3wQdrhwjB0TAF9jV93oFB0AhqeTmEXNtJmD+uBv4/ib1XgtRl0XC61AG+SFIm6aE6SeUBgzNWD35wW3bkpLE1Y3g5XYA1U4H/NVgwLDBvMiuZkQZsofWYTplmwWfwzKMwOuBM6bTdJ597Cw7BJ/CGt45K7BXYkSQdlZTAytkJ10zoaz7n6lOMczi3AEqZnip5+ayfxGVxM6SCZVSDaaFppdrbZcDETVB0IXE/eahzARD1FQyAvWJsdTtfcrCP287V3PGdYzCVdbNux50AAwA0xwskI/r60gAAAABJRU5ErkJggg==" /></a> <a
+href="#"><img
+width="39" height="39" alt="mail" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAnCAYAAACMo1E1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDowMjgwMTE3NDA3MjA2ODExODA4M0ZEM0M2ODVGNjQxRCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo2RUVGNzlCN0I3NEIxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo2RUVGNzlCNkI3NEIxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MjJGOTczOTZFNTIwNjgxMTgwODNGRDNDNjg1RjY0MUQiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDI4MDExNzQwNzIwNjgxMTgwODNGRDNDNjg1RjY0MUQiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6tKzpSAAACsElEQVR42syYPWgUQRiG5zbnJRJJEeVizhgigqhoEgR/KgsrDWphIVqIWtjZiAiiliqSOgRS2ohEG4tooSAoItpIgv9GYvwtDIKoBCSX9f3gnfCx7N7tbm7X+eC5nezs3j6ZuZn5Zo3v+waUwSio+v8v5Nk3QYVOpoCP5caYF6DDuBE/wCbwzcPHVYfEJNrBqBSk5XzjZvR6xt3Y6rJcwWW5alH9MQUugibwk6Mmj+gE4rECXGbZBAfEQ7CT5WawCsxk2W0Ue63OzYIWlo/rlmtW5S4wmUOrfQdllssUXgj9m5tj5TD4BSrS7xmKfaDQYXCWveRHyRlW7gPTMkPz5j8ZiElXrgGbwTWwEswHLwobrU/Y75McFN0NFhSxDRSb4Ll3YReGyS3hcW0GglasV4lJlOLK6WikoBYbj3NDnEm4EYKJxeLKLVbwVRqxJHJBwZ6YgtJiG9OIJZWzgp+4xPXVEXzDa/amEUsjZ1cPWebe12hBEVsP/oLdaUdQGjmZ0W+AIc7qlUCSMEExkboCTnJBTxzFFGLXwRgYAPs5QGQfMgJ+g9NgB7jDe+QfOM/yuURPU7ufR9z13IrYHR1i/Vjg/AzotzsmcCLk3jOsuxTx3adYP6vOHSumbDEd0mrPwFPQxi4NxiCPiVqwuEgxHdvqfE9iwTC5uRCx22BPA9ZWLegr0Wpcuc6MxIKCF5RoWz05m+gtY/KXhViY4DpORzXlbPkA+MKEszvDTHiQrx0O8jntteRsJirr5xbwgOWs3ghI3riaie1HlUeGyrVwWpB9xEtwJMd3I63cEnhRcn1c1Atsrfmc5Dx1LEXJSeVSh3b8nsuvI5pclnsrcvccFPsss4XIHWWq41LI3OeL3FfQD+47IPUc7AKP7VsmXbmdO/FSjlOJnbok7b+rK/4JMADDWbxR1kaskwAAAABJRU5ErkJggg==" /></a> <a
+href="#"><img
+width="39" height="39" alt="rss" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAnCAYAAACMo1E1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDowMjgwMTE3NDA3MjA2ODExODA4M0ZEM0M2ODVGNjQxRCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo2RUVGNzlCQkI3NEIxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo2RUVGNzlCQUI3NEIxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MjJGOTczOTZFNTIwNjgxMTgwODNGRDNDNjg1RjY0MUQiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDI4MDExNzQwNzIwNjgxMTgwODNGRDNDNjg1RjY0MUQiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz50rGtHAAADIklEQVR42syYb2iNURzHH/deF8PdCwstDWH+tLL5c7WyV0jsxXSVhCYrvMGLodBeKBMhoiTxZkVSEjeUtldSkn+7W5p/w0VW2tow3Zltj++p31On45xznz/3uZ5ffZ77POf5nXO/55zf+fMcwzRNg6gGd0CfmX/rBy1gI6fHsG6OmMGxy7y4tWbwbBcTNwqXp4ZhLDaCZf1gNhP3GzdRI3i2LoRLyAimjYngMgQilPABHASFoBiUgFIwFxTlWdxQREjoBtcljgWgDFSBVWAFVyHfjMVcBr9j6bkNLLSRbxpIgK1gkU/a1ruNty/gHI3yGpDyQ50o7o+LMpKgHNSDH36KGw9mgakuRvEZMAfc8Cvm+Bb8Bt5Tlz0CD8Enm+XuAye9xhxbvjIOlpX7oBaE+AVaQcLjEpZwKs6yj2C3DYFe1u2EGFcZ6sq+LE0+nUZrK1iu8bsHal13rNByz6nGE0EZ2ABOg2dZankoSwueykW3tmr+gIk9BroVhTVlEfjCq7iUjTiKgUZFgc2afMVeY86OsYm2AcTBV+HdSnBVkY/5NnqJucc2Wo6nkG1WJbXeo8nT67blZoLDoA4stVG379SCHUL6WTBfM0G7ajnR0uA8iGdpwSIwKOR9o/HvzPUknASlmj+skeTZqfCt82OFGAabNAKvCf4/QVjiFwUDuR6tIRqNOxTvt9G237IJCt9BcMvplsmuXQTLJOkDNBh4q1eUcdPtgGBHEvtBJe0ubkt8uhRdO1niWyHxmwRGnMZcDyiRFHZcUsB2hcAWwe+owq/dacw1KDaVByQrgqrLxHhS7VxSTmMuqfFvFp7nKSbbB8JzuWS3zeyVU3EjGv8CSVq1JO0l6OWeY/RhLtrnbOLC/+zd5cb8VkvS45K0YfBOskEVrUenTdZyJ8ASIW00uEstINoMReFpGz2S1n18sSOFt2ABlzgOPAGXQDuYArYoam6JWyPOUHTOwluV0NXMKjXiOgz6mgqaNVmHh0zlFbA5IEdfr+mY45cVc6zb9oLO/yiKffFdABVMmPXFzztESXWMAtjMg6gwbQTYnNfFv/grwAA0gtdR8+nqLQAAAABJRU5ErkJggg==" /></a></p></div> </section> <section><div
+style="width:500px;height:1px;background:#004156; display:block; margin-left:auto;margin-right:auto; border-bottom:1px solid #02a3d4"></div> <nav
+id="footernav"><ul><li><a
+href="/">Home</a></li><li><a
+href="/tip/hotel">Cauta Hotel</a></li><li><a
+href="/tip/pensiune">Cauta Pensiune</a></li><li><a
+href="/tip/restaurant">Cauta Restaurant</a></li><li><a
+href="/adauga-anunt/">Adauga Anunt</a></li><li><a
+href="#">Termeni si conditii</a></li><li><a
+href="/contact">Contact</a></li><li><a
+href="#">Sitemap</a></li></ul> </nav><p
+style="text-align:center">© 2013 TouristClub.ro</p> </section> </footer></body></html>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localhost/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.5.1" -->
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.9" -->
+<!-- generated-on="June 18, 2013 5:05 am" -->
+<!-- Debug: Total comment count: 0 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://localhost/</loc>
+		<lastmod>2013-06-18T05:04:53+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->
+	<url>
+		<loc>http://localhost/autocomplete-pensiune/</loc>
+		<lastmod>2013-06-18T05:04:53+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/autocomplete-hotel/</loc>
+		<lastmod>2013-06-18T05:04:32+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 600: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://localhost/restaurant/belvedere/</loc>
+		<lastmod>2013-06-17T14:59:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 594: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://localhost/restaurant/mara/</loc>
+		<lastmod>2013-06-17T14:53:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 587: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://localhost/restaurant/restaurant-golden-stone/</loc>
+		<lastmod>2013-06-17T14:44:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 575: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://localhost/pensiune/villa-prato/</loc>
+		<lastmod>2013-06-17T14:34:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 566: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://localhost/pensiune/casa-tepes/</loc>
+		<lastmod>2013-06-17T14:28:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 557: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://localhost/pensiune/crama-haiducilor/</loc>
+		<lastmod>2013-06-17T14:22:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 547: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://localhost/pensiune/pension-deja-vu/</loc>
+		<lastmod>2013-06-17T14:10:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 538: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://localhost/hotel/hotel-paradis/</loc>
+		<lastmod>2013-06-17T14:01:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://localhost/faq/</loc>
+		<lastmod>2013-06-17T13:52:55+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/termeni-si-conditii/</loc>
+		<lastmod>2013-06-17T13:45:14+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 521: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://localhost/hotel/z-executive-boutique-hotel/</loc>
+		<lastmod>2013-06-17T13:31:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 513: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://localhost/hotel/hotel-berthelot/</loc>
+		<lastmod>2013-06-17T13:22:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://localhost/adauga-anunt/</loc>
+		<lastmod>2013-06-13T10:07:38+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/contul-meu/</loc>
+		<lastmod>2013-06-12T13:11:24+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/modifica-restaurant/</loc>
+		<lastmod>2013-06-12T13:09:50+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/modifica-hotelpensiune/</loc>
+		<lastmod>2013-06-12T13:09:22+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/rezultat/</loc>
+		<lastmod>2013-06-11T08:42:24+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/adauga-anunt/restaurant/</loc>
+		<lastmod>2013-06-11T08:40:10+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/adauga-anunt/hotel/</loc>
+		<lastmod>2013-06-11T08:40:00+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/cont-nou/</loc>
+		<lastmod>2013-06-11T08:38:52+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 410: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://localhost/hotel/hotel-continental/</loc>
+		<lastmod>2013-06-08T10:53:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://localhost/contact/</loc>
+		<lastmod>2013-06-07T11:45:37+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 320: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://localhost/hotel/hotel-ibis/</loc>
+		<lastmod>2013-06-03T09:22:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 342: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://localhost/pensiune/pensiunea-amso/</loc>
+		<lastmod>2013-05-30T18:43:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 328: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://localhost/restaurant/restaurant-bolta-rece/</loc>
+		<lastmod>2013-05-30T12:44:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: End Postings -->
+<!-- Debug: Start Custom Pages -->
+<!-- Debug: End Custom Pages -->
+<!-- Debug: Start additional URLs -->
+<!-- Debug: End additional URLs -->
+</urlset>

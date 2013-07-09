@@ -1,0 +1,311 @@
+<!DOCTYPE html><html
+lang="en-US"><head><link
+rel="stylesheet" type="text/css" href="http://localhost:8888/wp-content/cache/minify/000000/TYtBDoAgDAQ_BCk-CWk1mEKxQJTfa4yJ3nYmsw5qG0zGQagVlDBJRtj2Tjpsj68PwqKznOYoNkhulBv0wuKxwiKaIvqZ6Uk_LCpmgvtR_Bqzb_TfFw.css" media="all" /><script type="text/javascript" src="http://localhost:8888/wp-content/cache/minify/000000/TYzbDkAwEAV_qNd48jlaK1a0y1YTfL1KCW9nTjJj9JT0tGbgQ1rVKivM78n4R-VpJna01zNQDxzx5IojdIVl8ozLlkTzSGVkfAMZS4NBBYzC6oE4YN-5GW7_ows.js"></script><meta
+charset="UTF-8" /><title> &raquo; Restaurant</title><meta
+name="description" content="Just another WordPress site"><link
+rel="profile" href="http://gmpg.org/xfn/11" /><link
+rel="pingback" href="http://localhost:8888/xmlrpc.php" /> <!--[if gte IE 9]><style type="text/css">.gradient{filter:none}</style><![endif]--><script type="text/javascript">/*<![CDATA[*/$(function(){$("#m_curatenie").progressbar({value:0*10});$("#progress-label1").text(Math.round($("#m_curatenie").progressbar("value"))/10);progressbarValue=$("#m_curatenie").find(".ui-progressbar-value");if($("#m_curatenie").progressbar("value")<70)progressbarValue.css({"background":'#dc2521'});if($("#m_curatenie").progressbar("value")>=70){progressbarValue.css({"background":'#d7cb00'});}
+if($("#m_curatenie").progressbar("value")>=80)progressbarValue.css({"background":'#3fbd65'});$("#progress-label1").css({'left':$("#m_curatenie").progressbar("value")/2+"%"});$("#m_confort").progressbar({value:0*10});$("#progress-label2").text(Math.round($("#m_confort").progressbar("value"))/10);progressbarValue=$("#m_confort").find(".ui-progressbar-value");if($("#m_confort").progressbar("value")<70)progressbarValue.css({"background":'#dc2521'});if($("#m_confort").progressbar("value")>=70)progressbarValue.css({"background":'#d7cb00'});if($("#m_confort").progressbar("value")>=80)progressbarValue.css({"background":'#3fbd65'});$("#progress-label2").css({'left':$("#m_confort").progressbar("value")/2+"%"});$("#m_locatie").progressbar({value:0*10});$("#progress-label3").text(Math.round($("#m_locatie").progressbar("value"))/10);progressbarValue=$("#m_locatie").find(".ui-progressbar-value");if($("#m_locatie").progressbar("value")<70)progressbarValue.css({"background":'#dc2521'});if($("#m_locatie").progressbar("value")>=70)progressbarValue.css({"background":'#d7cb00'});if($("#m_locatie").progressbar("value")>=80)progressbarValue.css({"background":'#3fbd65'});$("#progress-label3").css({'left':$("#m_locatie").progressbar("value")/2+"%"});$("#m_personal").progressbar({value:0*10});$("#progress-label4").text(Math.round($("#m_personal").progressbar("value"))/10);progressbarValue=$("#m_personal").find(".ui-progressbar-value");if($("#m_personal").progressbar("value")<70)progressbarValue.css({"background":'#dc2521'});if($("#m_personal").progressbar("value")>=70)progressbarValue.css({"background":'#d7cb00'});if($("#m_personal").progressbar("value")>=80)progressbarValue.css({"background":'#3fbd65'});$("#progress-label4").css({'left':$("#m_personal").progressbar("value")/2+"%"});$("#m_c_pret").progressbar({value:0*10});$("#progress-label5").text(Math.round($("#m_c_pret").progressbar("value"))/10);progressbarValue=$("#m_c_pret").find(".ui-progressbar-value");if($("#m_c_pret").progressbar("value")<70)progressbarValue.css({"background":'#dc2521'});if($("#m_c_pret").progressbar("value")>=70)progressbarValue.css({"background":'#d7cb00'});if($("#m_c_pret").progressbar("value")>=80)progressbarValue.css({"background":'#3fbd65'});$("#progress-label5").css({'left':$("#m_c_pret").progressbar("value")/2+"%"});$("#m_mancare").progressbar({value:10*10});$("#progress-label6").text(Math.round($("#m_mancare").progressbar("value"))/10);progressbarValue=$("#m_mancare").find(".ui-progressbar-value");if($("#m_mancare").progressbar("value")<70)progressbarValue.css({"background":'#dc2521'});if($("#m_mancare").progressbar("value")>=70){progressbarValue.css({"background":'#d7cb00'});}
+if($("#m_mancare").progressbar("value")>=80)progressbarValue.css({"background":'#3fbd65'});$("#progress-label6").css({'left':$("#m_mancare").progressbar("value")/2+"%"});$("#m_servicii").progressbar({value:4*10});$("#progress-label7").text(Math.round($("#m_servicii").progressbar("value"))/10);progressbarValue=$("#m_servicii").find(".ui-progressbar-value");if($("#m_servicii").progressbar("value")<70)progressbarValue.css({"background":'#dc2521'});if($("#m_servicii").progressbar("value")>=70)progressbarValue.css({"background":'#d7cb00'});if($("#m_servicii").progressbar("value")>=80)progressbarValue.css({"background":'#3fbd65'});$("#progress-label7").css({'left':$("#m_servicii").progressbar("value")/2+"%"});$("#m_locatie2").progressbar({value:8*10});$("#progress-label8").text(Math.round($("#m_locatie2").progressbar("value"))/10);progressbarValue=$("#m_locatie2").find(".ui-progressbar-value");if($("#m_locatie2").progressbar("value")<70)progressbarValue.css({"background":'#dc2521'});if($("#m_locatie2").progressbar("value")>=70)progressbarValue.css({"background":'#d7cb00'});if($("#m_locatie2").progressbar("value")>=80)progressbarValue.css({"background":'#3fbd65'});$("#progress-label8").css({'left':$("#m_locatie2").progressbar("value")/2+"%"});$("#m_personal2").progressbar({value:4*10});$("#progress-label9").text(Math.round($("#m_personal2").progressbar("value"))/10);progressbarValue=$("#m_personal2").find(".ui-progressbar-value");if($("#m_personal2").progressbar("value")<70)progressbarValue.css({"background":'#dc2521'});if($("#m_personal2").progressbar("value")>=70)progressbarValue.css({"background":'#d7cb00'});if($("#m_personal2").progressbar("value")>=80)progressbarValue.css({"background":'#3fbd65'});$("#progress-label9").css({'left':$("#m_personal2").progressbar("value")/2+"%"});$("#m_c_pret2").progressbar({value:8*10});$("#progress-label10").text(Math.round($("#m_c_pret2").progressbar("value"))/10);progressbarValue=$("#m_c_pret2").find(".ui-progressbar-value");if($("#m_c_pret2").progressbar("value")<70)progressbarValue.css({"background":'#dc2521'});if($("#m_c_pret2").progressbar("value")>=70)progressbarValue.css({"background":'#d7cb00'});if($("#m_c_pret2").progressbar("value")>=80)progressbarValue.css({"background":'#3fbd65'});$("#progress-label10").css({'left':$("#m_c_pret2").progressbar("value")/2+"%"});});/*]]>*/</script><link
+rel="alternate" type="application/rss+xml" title="TouristClub &raquo; Restaurant Category Feed" href="http://localhost:8888/tip/restaurant/feed/" /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost:8888/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost:8888/wp-includes/wlwmanifest.xml" /><meta
+name="generator" content="WordPress 3.5.1" /><style type="text/css">.recentcomments
+a{display:inline !important;padding:0
+!important;margin:0
+!important}</style></head><body> <header> <section><div
+id="logo" onClick="window.location='/'" title="Tourist Club Hoteluri Restaurante"><div
+id="logoimage"></div><div
+style="float:right; "> <span
+style="font-size:30px; text-shadow: 2px 2px rgba(0, 0, 0, 0.5); font-weight:bold">Tourist</span> <span
+style="font-size:30px; background:#fff; color:#0189b3;padding-left:5px;padding-right:5px; font-weight:bold">Club</span><br> <span
+style="font-size:14px; margin-left:5px;line-height:20px">Hoteluri, Restaurante</span></div></div><div
+style="float:right"> <nav
+id="topnav"><ul><li><a
+href="/adauga-anunt/" style="color:#02ade1; background:#fff;padding:0 2px 0 2px">Adauga anunt</a></li><li><a
+href="/wp-login.php/">Login</a></li><li><a
+href="/cont-nou/">Cont Nou</a></li></ul> </nav><form
+id="top-search-form" style="float:right;margin-top:5px; position:relative" action="/tip/hotel"><table><tbody><tr><td> <input
+id="select-oras" class="rounded oras" type="text" name="oras" placeholder="Introdu localitatea"></td><td> <select
+name="tip" id="tip_search"><option
+value="hotel">Hotel</option><option
+value="pensiune">Pensiune</option><option
+value="restaurant">Restaurant</option> </select></td><td> <input
+type="submit" id="cautabtn" value="Cauta"></td></tr><tr
+style="font-size:12px; color:#fff"><td>Alege o destinatie</td><td>Ce cauti?</td><td></td></tr></tbody
+></table></form></div> </section> </header> <nav
+id="bignav"><ul><li
+class="currentpage"><a
+href="/">Acasa</a></li><li><img
+src=" http://localhost:8888/wp-content/themes/TouristClub/images/separator.gif" alt="separator" width="2" height="19"></li><li><a
+href="#">Cazare</a><ul><li><a
+href="/hoteluri">Caută Hoteluri</a></li><li><a
+href="/pensiuni">Cauta Pensiuni</a></li></ul></li><li><img
+src=" http://localhost:8888/wp-content/themes/TouristClub/images/separator.gif" alt="separator" width="2" height="19"></li><li><a
+href="/restaurante">Restaurante</a></li><li><a
+href="/contact">Contact</a></li><li><img
+src=" http://localhost:8888/wp-content/themes/TouristClub/images/separator.gif" alt="separator" width="2" height="19"></li><li><a
+href="/faq">Intrebari Frecvente</a></li></ul> </nav> <section> <aside
+class="floatleft"><div
+class="widget"><div
+class="frm_form_widget frm_set_select"><h3>Cauta</h3><div
+class="frm_forms with_frm_style" id="frm_form_15_container"><form
+enctype="multipart/form-data" method="post" class="frm-show-form " id="form_scbkei" ><div
+class="frm_form_fields"><fieldset><div> <input
+type="hidden" name="frm_action" value="create" /> <input
+type="hidden" name="form_id" value="15" /> <input
+type="hidden" name="form_key" value="scbkei" /><div
+id="frm_field_318_container" class="frm_form_field form-field  frm_top_container"> <label
+class="frm_primary_label">Denumire <span
+class="frm_required"></span> </label> <input
+type="text" id="field_5m89uu" name="item_meta[318]" value="" /></div><div
+id="frm_field_316_container" class="frm_form_field form-field  frm_top_container"> <label
+class="frm_primary_label">Categorie Anunt <span
+class="frm_required"></span> </label> <select
+name="item_meta[316]" id="field_o3rbg1"  onchange="frmCheckDependent(jQuery(this).val(),'316')"><option
+value="Hotel" selected="selected">Hotel</option><option
+value="Pensiune" >Pensiune</option><option
+value="Restaurant" >Restaurant</option> </select></div><div
+id="frm_field_291_container" class="frm_form_field form-field  frm_top_container frm_left_half"> <label
+class="frm_primary_label">Oras / Localitate <span
+class="frm_required"></span> </label> <input
+type="text" id="field_eer3ti" name="item_meta[291]" value="" /></div><div
+id="frm_field_292_container" class="frm_form_field form-field  frm_top_container frm_right_half"> <label
+class="frm_primary_label">Judet <span
+class="frm_required"></span> </label> <select
+name="item_meta[292]" id="field_kcfp78" ><option
+value="" selected="selected">Toate</option><option
+value="Alba" >Alba</option><option
+value="Arad" >Arad</option><option
+value="Arges" >Arges</option><option
+value="Bacau" >Bacau</option><option
+value="Bihor" >Bihor</option><option
+value="Bistrita-Nasaud" >Bistrita-Nasaud</option><option
+value="Botosani" >Botosani</option><option
+value="Braila" >Braila</option><option
+value="Brasov" >Brasov</option><option
+value="Bucuresti-Ilfov" >Bucuresti-Ilfov</option><option
+value="Buzau" >Buzau</option><option
+value="Calarasi" >Calarasi</option><option
+value="Caras-Severin" >Caras-Severin</option><option
+value="Cluj" >Cluj</option><option
+value="Constanta" >Constanta</option><option
+value="Covasna" >Covasna</option><option
+value="Dambovita" >Dambovita</option><option
+value="Dolj" >Dolj</option><option
+value="Galati" >Galati</option><option
+value="Giurgiu" >Giurgiu</option><option
+value="Gorj" >Gorj</option><option
+value="Harghita" >Harghita</option><option
+value="Hunedoara" >Hunedoara</option><option
+value="Ialomita" >Ialomita</option><option
+value="Iasi" >Iasi</option><option
+value="Maramures" >Maramures</option><option
+value="Mehedinti" >Mehedinti</option><option
+value="Mures" >Mures</option><option
+value="Neamt" >Neamt</option><option
+value="Olt" >Olt</option><option
+value="Prahova" >Prahova</option><option
+value="Salaj" >Salaj</option><option
+value="Satu-Mare" >Satu-Mare</option><option
+value="Sibiu" >Sibiu</option><option
+value="Suceava" >Suceava</option><option
+value="Teleorman" >Teleorman</option><option
+value="Timis" >Timis</option><option
+value="Tulcea" >Tulcea</option><option
+value="Valcea" >Valcea</option><option
+value="Vaslui" >Vaslui</option><option
+value="Vrancea" >Vrancea</option> </select></div><div
+id="frm_field_294_container" class="frm_form_field form-field  frm_top_container frm_left_half"> <label
+class="frm_primary_label">Categorie <span
+class="frm_required"></span> </label> <select
+name="item_meta[294]" id="field_1t21s" ><option
+value="" selected="selected">Toate</option><option
+value="1-stea" >Hotel 1 * / stea</option><option
+value="2-stele" >Hotel 2 ** / stele</option><option
+value="3-stele" >Hotel 3 *** / stele</option><option
+value="4-stele" >Hotel 4 **** / stele</option><option
+value="5-stele" >Hotel 5 ***** / stele</option> </select></div><div
+id="frm_field_317_container" class="frm_form_field form-field  frm_top_container frm_left_half"> <label
+class="frm_primary_label">Categorie <span
+class="frm_required"></span> </label> <select
+name="item_meta[317]" id="field_wg08jm" ><option
+value="" selected="selected">Toate</option><option
+value="1-margareta" >Pensiune 1 margareta</option><option
+value="2-margarete" >Pensiune 2 margarete</option><option
+value="3-margarete" >Pensiune 3 margarete</option><option
+value="4-margarete" >Pensiune 4 margarete</option><option
+value="5-margarete" >Pensiune 5 margarete</option> </select></div><div
+id="frm_field_300_container" class="frm_form_field form-field  frm_top_container frm_right_half"> <label
+class="frm_primary_label">Pret Maxim <span
+class="frm_required"></span> </label> <input
+type="text" id="field_7e7xb1" name="item_meta[300]" value="" /></div><div
+id="frm_field_320_container" class="frm_form_field form-field  frm_top_container"> <label
+class="frm_primary_label">Specific <span
+class="frm_required"></span> </label> <select
+name="item_meta[320]" id="field_52v1lj" ><option
+value="" >Toate</option><option
+value="Arabesc" >Arabesc</option><option
+value="Belgian" >Belgian</option><option
+value="Brazilian" >Brazilian</option><option
+value="Chinezesc" >Chinezesc</option><option
+value="Frantuzesc" >Frantuzesc</option><option
+value="Grecesc" >Grecesc</option><option
+value="Indian" >Indian</option><option
+value="International" >International</option><option
+value="Italian" >Italian</option><option
+value="Japonez" >Japonez</option><option
+value="Libanez" >Libanez</option><option
+value="Mediteranean" >Mediteranean</option><option
+value="Mexican" >Mexican</option><option
+value="Mongol" >Mongol</option><option
+value="Oriental" >Oriental</option><option
+value="Portughez" >Portughez</option><option
+value="Romanesc" >Romanesc</option><option
+value="Sud-american" >Sud-american</option><option
+value="Turcesc" >Turcesc</option><option
+value="Unguresc" >Unguresc</option><option
+value="Vegetarian" >Vegetarian</option><option
+value="Fast-food" >Fast-food</option><option
+value="Pescaresc-marin" >Pescaresc-marin</option><option
+value="Pizzerie" >Pizzerie</option><option
+value="American" >American</option> </select></div><div
+id="frm_field_319_container" class="frm_form_field  form-field"><div
+style="clear:both"></div></div><div
+id="frm_field_299_container" class="frm_form_field form-field  frm_none_container frm_left_half"> <label
+class="frm_primary_label">Tip Camera <span
+class="frm_required"></span> </label><div
+class="frm_checkbox" id="frm_checkbox_299-1"><input
+type="checkbox" name="item_meta[299][]" id="field_299-1" value="Single"  /><label
+for="field_299-1">Single</label></div><div
+class="frm_checkbox" id="frm_checkbox_299-2"><input
+type="checkbox" name="item_meta[299][]" id="field_299-2" value="Camera dubla sau twin"  /><label
+for="field_299-2">Dubla/twin</label></div><div
+class="frm_checkbox" id="frm_checkbox_299-3"><input
+type="checkbox" name="item_meta[299][]" id="field_299-3" value="Apartament"  /><label
+for="field_299-3">Apartament</label></div></div><div
+id="frm_field_301_container" class="frm_form_field form-field  frm_none_container frm_right_half"> <label
+class="frm_primary_label">Inclus in pret <span
+class="frm_required"></span> </label><div
+class="frm_checkbox" id="frm_checkbox_301-1"><input
+type="checkbox" name="item_meta[301][]" id="field_301-1" value="mic dejun inclus"  /><label
+for="field_301-1">mic dejun inclus</label></div><div
+class="frm_checkbox" id="frm_checkbox_301-2"><input
+type="checkbox" name="item_meta[301][]" id="field_301-2" value="all inclusive"  /><label
+for="field_301-2">all inclusive</label></div></div><div
+id="frm_field_297_container" class="frm_form_field form-field  horizontal_radio frm_none_container frm_left_half" style="margin-bottom:0"> <label
+class="frm_primary_label">Parcare <span
+class="frm_required"></span> </label><div
+class="frm_checkbox" id="frm_checkbox_297-1"><input
+type="checkbox" name="item_meta[297][]" id="field_297-1" value="da"  /><label
+for="field_297-1">Parcare</label></div></div><div
+id="frm_field_298_container" class="frm_form_field form-field  horizontal_radio frm_none_container frm_right_half" style="margin-bottom:0"> <label
+class="frm_primary_label">Internet Wifi <span
+class="frm_required"></span> </label><div
+class="frm_checkbox" id="frm_checkbox_298-1"><input
+type="checkbox" name="item_meta[298][]" id="field_298-1" value="da"  /><label
+for="field_298-1">Internet Wifi</label></div></div><div
+id="frm_field_296_container" class="frm_form_field form-field  horizontal_radio frm_none_container" style="margin-bottom:0"> <label
+class="frm_primary_label">Animale de companie <span
+class="frm_required"></span> </label><div
+class="frm_checkbox" id="frm_checkbox_296-1"><input
+type="checkbox" name="item_meta[296][]" id="field_296-1" value="da"  /><label
+for="field_296-1">Animale de companie</label></div></div> <input
+type="hidden" name="item_key" value="" /></div></fieldset></div><p
+class="submit"> <input
+type="submit" value="Submit" /></p></form></div></div></div><div
+class="textwidget"><div
+style="margin-bottom:20px"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-5880853293233753";
+/* AnuntGarantat1 */
+google_ad_slot = "5533418333";
+google_ad_width = 300;
+google_ad_height = 250;
+//--></script><script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div></div><div
+class="textwidget"><iframe
+src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FFacebookDevelopers&amp;width=300&amp;height=290&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;show_border=true&amp;header=true" style="border:none; overflow:hidden; width:300px; height:290px; overflow:hidden; border:0;background-color:transparent"></iframe></div> </aside> <article
+class="floatright"><h1>Restaurant</h1><div
+id="breadcrumb"><a
+href="http://localhost:8888" title="Browse to: Home">Home</a> &raquo; Archive by category &#39;Restaurant&#39;</div><ul
+id="post_items"><li><div
+style="overflow:hidden; clear:both"><div
+class="cat_thumb"> <a
+href="http://localhost:8888/restaurant/restaurant-bolta-rece/"><img
+src="http://localhost:8888/wp-content/uploads/formidable/ev_01-150x150.jpg" width="130" height="130" title="bolta rece" alt="bolta rece"></a></div><div
+style="float:left; width:440px"><h2 style="background:none; margin:0 10px 0 0;padding:0; float:left; margin-bottom:20px"><a
+href="http://localhost:8888/restaurant/restaurant-bolta-rece/">Restaurant Bolta Rece</a></h2> <a
+href="http://localhost:8888/restaurant/restaurant-bolta-rece/#tabs-2" style="float:right; text-align:right">1 vot(uri)<br>6.80/10</a></div><p
+style="margin:0 0 5px 0; font-style:italic"> Aleea Mihai Eminescu, Nr. 4, Sibiu, <a
+href="http://localhost:8888/?taxonomy=judet&amp;term=sibiu" title="View all posts filed under Sibiu">Sibiu</a></p> Restaurantul Bolta Rece localizat in incinta Parcului "Sub Arini", dispune de un spatiu de servire interior si o terasa superba cu locuri pentru iubitorii gastronomiei it<a
+href="#" onclick="jQuery(this).next().css('display', 'inline');jQuery(this).css('display', 'none');return false;" class="frm_text_exposed_show"> Mai mult..</a><span
+style="display:none;">alienesti.
+Specializat de asemenea in organizarea de evenimente, Restaurantul Bolta Rece va asigura un cadru special amenajat pe terasa sa pentru momentele rare din viata dumneavoastra, iar serviciile noastre profesioniste vin in completare, oferindu-va o locatie perfecta pentru orice ocazie sau eveniment - nunti, botezuri, petreceri, etc.
+Dedicat clientilor sai, Restaurantul Bolta Rece ofera un meniu bogat, care satisface orice gusturi. Servirea ireprosabila, bunul gust al bucatarilor restaurantului incanta, iar decorul deosebit va vor face sa reveniti mereu. Va asteptam cu drag intotdeauna. </span></div><table
+style="clear:both; width:100%; margin-top:20px"><tr
+style="background:#eeeeee; font-weight:bold"><td
+colspan="3" style="height:20px; padding-left:5px">Facilitati</td></tr><tr
+style="border-bottom:1px dotted #eeeeee"><td
+colspan="3" style="padding-left:5px; color:#676767; font-size:10px;"><a
+href="http://localhost:8888/tag/acces-persoane-cu-dizabilitati/" title="View all posts filed under Acces persoane cu dizabilitati">Acces persoane cu dizabilitati</a>, <a
+href="http://localhost:8888/tag/aer-conditionat-6/" title="View all posts filed under Aer Conditionat">Aer Conditionat</a>, <a
+href="http://localhost:8888/tag/formatie-lautari/" title="View all posts filed under Formatie – Lautari">Formatie – Lautari</a>, <a
+href="http://localhost:8888/tag/lcd/" title="View all posts filed under LCD">LCD</a>, <a
+href="http://localhost:8888/tag/livrare-la-domiciliu/" title="View all posts filed under Livrare la domiciliu">Livrare la domiciliu</a>, <a
+href="http://localhost:8888/tag/loc-de-joaca/" title="View all posts filed under Loc de joaca">Loc de joaca</a>, <a
+href="http://localhost:8888/tag/nefumatori/" title="View all posts filed under Nefumatori">Nefumatori</a>, <a
+href="http://localhost:8888/tag/organizare-evenimente/" title="View all posts filed under Organizare evenimente">Organizare evenimente</a>, <a
+href="http://localhost:8888/tag/plata-cu-card-de-credit/" title="View all posts filed under Plata cu card de credit">Plata cu card de credit</a>, <a
+href="http://localhost:8888/tag/rezervare/" title="View all posts filed under Rezervare">Rezervare</a>, <a
+href="http://localhost:8888/tag/salon-fumatori/" title="View all posts filed under Salon fumatori">Salon fumatori</a>, <a
+href="http://localhost:8888/tag/salon-nefumatori/" title="View all posts filed under Salon nefumatori">Salon nefumatori</a>, <a
+href="http://localhost:8888/tag/servire-la-pachet/" title="View all posts filed under Servire la pachet">Servire la pachet</a>, <a
+href="http://localhost:8888/tag/terasa/" title="View all posts filed under Terasa">Terasa</a></td></tr><tr
+style="height:20px"><td></td></tr><tr
+style="background:#eeeeee; font-weight:bold"><td
+style="height:20px; padding-left:5px">Categorie</td><td>Program</td><td>Capacitate</td></tr><tr
+style="border-bottom:1px dotted #eeeeee"><td
+style="padding-left:5px"><a
+href="http://localhost:8888/tip/restaurant/international/" title="View all posts filed under Specific International">Specific International</a></td><td>De Luni pana Vineri de la 08.00 pana la 21.00</td><td>200</td></tr></table></li></ul> </article> </section> <footer> <section><div
+class="column"><h2>Despre TouristClub</h2><p> - cel mai popular site de rezervari directe conf. trafic.ro,<br> - peste 5.500 de unitati de cazare din toata Romania,<br> - detalii complete si poze din fiecare camera,<br> - 13777 recenzii la hoteluri si pensiuni,<br> - tarife de cazare actualizate zilnic,<br> - contact direct cu hotelierii, fara intermediari,<br> - cele mai mici preturi la cazare, fara comision.</p></div><div
+class="column"><h2>Ultimele unitati inscrise</h2><p> <a
+href="http://localhost:8888/hotel/hotel-continental/">Hotel Continental (01-06-2013)</a><br> <a
+href="http://localhost:8888/pensiune/pensiunea-amso/">Pensiunea Amso (30-05-2013)</a><br> <a
+href="http://localhost:8888/restaurant/restaurant-bolta-rece/">Restaurant Bolta Rece (30-05-2013)</a><br> <a
+href="http://localhost:8888/hotel/hotel-ibis/">Hotel Ibis (30-05-2013)</a><br></p></div><div
+class="column"><h2>Tag Cloud</h2><div
+style="height:100px"> <a
+href='http://localhost:8888/tag/acces-persoane-cu-dizabilitati/' class='tag-link-180' title='4 topics' style='font-size: 16pt;'>Acces persoane cu dizabilitati</a> <a
+href='http://localhost:8888/tag/aer-conditionat-6/' class='tag-link-187' title='4 topics' style='font-size: 16pt;'>Aer Conditionat</a> <a
+href='http://localhost:8888/tag/baie-cu-cada/' class='tag-link-76' title='3 topics' style='font-size: 8pt;'>baie cu cada</a> <a
+href='http://localhost:8888/tag/cabina-dus/' class='tag-link-167' title='3 topics' style='font-size: 8pt;'>Cabina dus</a> <a
+href='http://localhost:8888/tag/lcd/' class='tag-link-165' title='4 topics' style='font-size: 16pt;'>LCD</a> <a
+href='http://localhost:8888/tag/organizare-conferinte-si-evenimente/' class='tag-link-169' title='3 topics' style='font-size: 8pt;'>Organizare conferinte si evenimente</a> <a
+href='http://localhost:8888/tag/plata-cu-card-de-credit/' class='tag-link-68' title='4 topics' style='font-size: 16pt;'>Plata cu card de credit</a> <a
+href='http://localhost:8888/tag/restaurant/' class='tag-link-14' title='3 topics' style='font-size: 8pt;'>Restaurant</a> <a
+href='http://localhost:8888/tag/terasa/' class='tag-link-74' title='3 topics' style='font-size: 8pt;'>Terasa</a> <a
+href='http://localhost:8888/tag/uscator-de-par/' class='tag-link-166' title='3 topics' style='font-size: 8pt;'>Uscator de par</a></div></div><div
+class="column" style="margin-right:0;width:220px"><h2>Newsletter</h2><p
+style="font-size:12px"> Daca doriti sa primiti ultimele stiri din partea noastra, introduceti adresa diumneavoastra de email.</p><form> <input
+class="rounded newsicon" style="width:140px" type="email" name="newletter" > <input
+type="submit" id="newsbutton"  value="OK"></form><p> <a
+href="#"><img
+width="39" height="39" alt="Facebook" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAnCAYAAACMo1E1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDowMjgwMTE3NDA3MjA2ODExODA4M0ZEM0M2ODVGNjQxRCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDoxM0UyRTUyNEI3MzMxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDoxM0UyRTUyM0I3MzMxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MjZGOTczOTZFNTIwNjgxMTgwODNGRDNDNjg1RjY0MUQiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDI4MDExNzQwNzIwNjgxMTgwODNGRDNDNjg1RjY0MUQiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz5WFbxHAAABwUlEQVR42uyYPUvDQBjHL400Lg61tYqIm7iouIi4iTroFxDBQboqfgQ/hKCTk4NL8QMIxZdF3EWpgw6+oHYpSG1VMIn/Bx4hSC9pJJdkuAd+IZe73P3IXS53Ea7rClAEZWC7yQW1fQgG2UkYOOSFENegX6Qj6mAMvGRw2E+RGEUvKNMJPTk3hgbvQQ00AbVnglEw4HPPRJdCoRuwDY7BLUt5YwPs+Nw/pUruDMwDx6eMHVCHkVEg9gaWAsQosgH5tgq5A/DZQblaUAEV3Xruk7cOpsEXGElCTvZEVsBumIpUdKtsoM+ErSgqOUdy7o3XEG+qiGoSPgElYPHk+gBabcr1gCEWo/xFsOdTbymKMVdnoaBogKonfRlHt5r/vM+K422lRrppiHD6w6etLH/GiHwccgvgkeWIVXDUptwm2OIXxu3gCxGJHDVS8KQLknJ9IJf0PCfr1mZS85yS0HJaTstpOS2n5bRc+uUakuutsG4q9q1F3sz8jVzIekwVv8BoPfctWZRaIeqZJbkKL7XTFE9gmMbcGnhPmdwy7TNI7hlMgtMUSF2BOXDxu+P3ZtIfoHEeH05MQgbvxu5AxZvxI8AAGL7xWL5Kas8AAAAASUVORK5CYII=" /></a> <a
+href="#"><img
+width="39" height="39" alt="twitter" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAnCAYAAACMo1E1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDowMjgwMTE3NDA3MjA2ODExODA4M0ZEM0M2ODVGNjQxRCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDoxM0UyRTUyOEI3MzMxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDoxM0UyRTUyN0I3MzMxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MjJGOTczOTZFNTIwNjgxMTgwODNGRDNDNjg1RjY0MUQiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDI4MDExNzQwNzIwNjgxMTgwODNGRDNDNjg1RjY0MUQiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz440PVwAAACO0lEQVR42syYv0scQRTH536qUTFqcoErxIAIERMUPRJMI2qChahptBIvf4P+CXZap0rwZyGelVbhihMsbCwM5CwESZMfpFBBRSHxXL8P3sFy5Jh37kx2H3x2lnuzt19mZue9ecpxHAUSYAMUHP+M3r0JkqxJhXBpVkrlwRMVDDsFneBXGJflAAkjawIbdEMj5wgfOuYRbgFd/0Hki7Cw4zRoA2Ogm9sry+JSEnGTYKXkty0wYllcSCfuoDj//7AcOLIorqATt6vxf7c5dDpxVRr/Hz/FVWv8t36K0728yaa4qEdxc6AXXIPiflkoeZYGIMLtIzAK2kXqNPHuYzHOGWZJEGvTuml1LM1YGnzzuuYci0tqPcjifgdZ3LBXcbZsVCIu6lF8lPsUXFtIuUhDG/pjMA7mTexzOsuAPvAX3JQsBWpDzANQA+pMbsIRjb8VJPwKXzFBvu9bbI0HOfDrpvXMT3EPNf5VP8U91/i3wQdrhwjB0TAF9jV93oFB0AhqeTmEXNtJmD+uBv4/ib1XgtRl0XC61AG+SFIm6aE6SeUBgzNWD35wW3bkpLE1Y3g5XYA1U4H/NVgwLDBvMiuZkQZsofWYTplmwWfwzKMwOuBM6bTdJ597Cw7BJ/CGt45K7BXYkSQdlZTAytkJ10zoaz7n6lOMczi3AEqZnip5+ayfxGVxM6SCZVSDaaFppdrbZcDETVB0IXE/eahzARD1FQyAvWJsdTtfcrCP287V3PGdYzCVdbNux50AAwA0xwskI/r60gAAAABJRU5ErkJggg==" /></a> <a
+href="#"><img
+width="39" height="39" alt="mail" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAnCAYAAACMo1E1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDowMjgwMTE3NDA3MjA2ODExODA4M0ZEM0M2ODVGNjQxRCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo2RUVGNzlCN0I3NEIxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo2RUVGNzlCNkI3NEIxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MjJGOTczOTZFNTIwNjgxMTgwODNGRDNDNjg1RjY0MUQiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDI4MDExNzQwNzIwNjgxMTgwODNGRDNDNjg1RjY0MUQiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6tKzpSAAACsElEQVR42syYPWgUQRiG5zbnJRJJEeVizhgigqhoEgR/KgsrDWphIVqIWtjZiAiiliqSOgRS2ohEG4tooSAoItpIgv9GYvwtDIKoBCSX9f3gnfCx7N7tbm7X+eC5nezs3j6ZuZn5Zo3v+waUwSio+v8v5Nk3QYVOpoCP5caYF6DDuBE/wCbwzcPHVYfEJNrBqBSk5XzjZvR6xt3Y6rJcwWW5alH9MQUugibwk6Mmj+gE4rECXGbZBAfEQ7CT5WawCsxk2W0Ue63OzYIWlo/rlmtW5S4wmUOrfQdllssUXgj9m5tj5TD4BSrS7xmKfaDQYXCWveRHyRlW7gPTMkPz5j8ZiElXrgGbwTWwEswHLwobrU/Y75McFN0NFhSxDRSb4Ll3YReGyS3hcW0GglasV4lJlOLK6WikoBYbj3NDnEm4EYKJxeLKLVbwVRqxJHJBwZ6YgtJiG9OIJZWzgp+4xPXVEXzDa/amEUsjZ1cPWebe12hBEVsP/oLdaUdQGjmZ0W+AIc7qlUCSMEExkboCTnJBTxzFFGLXwRgYAPs5QGQfMgJ+g9NgB7jDe+QfOM/yuURPU7ufR9z13IrYHR1i/Vjg/AzotzsmcCLk3jOsuxTx3adYP6vOHSumbDEd0mrPwFPQxi4NxiCPiVqwuEgxHdvqfE9iwTC5uRCx22BPA9ZWLegr0Wpcuc6MxIKCF5RoWz05m+gtY/KXhViY4DpORzXlbPkA+MKEszvDTHiQrx0O8jntteRsJirr5xbwgOWs3ghI3riaie1HlUeGyrVwWpB9xEtwJMd3I63cEnhRcn1c1Atsrfmc5Dx1LEXJSeVSh3b8nsuvI5pclnsrcvccFPsss4XIHWWq41LI3OeL3FfQD+47IPUc7AKP7VsmXbmdO/FSjlOJnbok7b+rK/4JMADDWbxR1kaskwAAAABJRU5ErkJggg==" /></a> <a
+href="#"><img
+width="39" height="39" alt="rss" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAnCAYAAACMo1E1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDowMjgwMTE3NDA3MjA2ODExODA4M0ZEM0M2ODVGNjQxRCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo2RUVGNzlCQkI3NEIxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo2RUVGNzlCQUI3NEIxMUUyQThDM0Q3N0VBMkVBMDU4RCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MjJGOTczOTZFNTIwNjgxMTgwODNGRDNDNjg1RjY0MUQiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDI4MDExNzQwNzIwNjgxMTgwODNGRDNDNjg1RjY0MUQiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz50rGtHAAADIklEQVR42syYb2iNURzHH/deF8PdCwstDWH+tLL5c7WyV0jsxXSVhCYrvMGLodBeKBMhoiTxZkVSEjeUtldSkn+7W5p/w0VW2tow3Zltj++p31On45xznz/3uZ5ffZ77POf5nXO/55zf+fMcwzRNg6gGd0CfmX/rBy1gI6fHsG6OmMGxy7y4tWbwbBcTNwqXp4ZhLDaCZf1gNhP3GzdRI3i2LoRLyAimjYngMgQilPABHASFoBiUgFIwFxTlWdxQREjoBtcljgWgDFSBVWAFVyHfjMVcBr9j6bkNLLSRbxpIgK1gkU/a1ruNty/gHI3yGpDyQ50o7o+LMpKgHNSDH36KGw9mgakuRvEZMAfc8Cvm+Bb8Bt5Tlz0CD8Enm+XuAye9xhxbvjIOlpX7oBaE+AVaQcLjEpZwKs6yj2C3DYFe1u2EGFcZ6sq+LE0+nUZrK1iu8bsHal13rNByz6nGE0EZ2ABOg2dZankoSwueykW3tmr+gIk9BroVhTVlEfjCq7iUjTiKgUZFgc2afMVeY86OsYm2AcTBV+HdSnBVkY/5NnqJucc2Wo6nkG1WJbXeo8nT67blZoLDoA4stVG379SCHUL6WTBfM0G7ajnR0uA8iGdpwSIwKOR9o/HvzPUknASlmj+skeTZqfCt82OFGAabNAKvCf4/QVjiFwUDuR6tIRqNOxTvt9G237IJCt9BcMvplsmuXQTLJOkDNBh4q1eUcdPtgGBHEvtBJe0ubkt8uhRdO1niWyHxmwRGnMZcDyiRFHZcUsB2hcAWwe+owq/dacw1KDaVByQrgqrLxHhS7VxSTmMuqfFvFp7nKSbbB8JzuWS3zeyVU3EjGv8CSVq1JO0l6OWeY/RhLtrnbOLC/+zd5cb8VkvS45K0YfBOskEVrUenTdZyJ8ASIW00uEstINoMReFpGz2S1n18sSOFt2ABlzgOPAGXQDuYArYoam6JWyPOUHTOwluV0NXMKjXiOgz6mgqaNVmHh0zlFbA5IEdfr+mY45cVc6zb9oLO/yiKffFdABVMmPXFzztESXWMAtjMg6gwbQTYnNfFv/grwAA0gtdR8+nqLQAAAABJRU5ErkJggg==" /></a></p></div> </section> <section><div
+style="width:500px;height:1px;background:#004156; display:block; margin-left:auto;margin-right:auto; border-bottom:1px solid #02a3d4"></div> <nav
+id="footernav"><ul><li><a
+href="/">Home</a></li><li><a
+href="/tip/hotel">Cauta Hotel</a></li><li><a
+href="/tip/pensiune">Cauta Pensiune</a></li><li><a
+href="/tip/restaurant">Cauta Restaurant</a></li><li><a
+href="/adauga-anunt/">Adauga Anunt</a></li><li><a
+href="#">Termeni si conditii</a></li><li><a
+href="/contact">Contact</a></li><li><a
+href="#">Sitemap</a></li></ul> </nav><p
+style="text-align:center">© 2013 TouristClub.ro</p> </section> </footer><script type="text/javascript">__FRMRULES={"316":[{"Show":"show","MatchType":"any","Setting":{"FieldName":"294"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Hotel","Type":"select"}]},{"Show":"show","MatchType":"any","Setting":{"FieldName":"317"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Pensiune","Type":"select"}]},{"Show":"show","MatchType":"any","Setting":{"FieldName":"300"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Hotel","Type":"select"},{"FieldName":"316","Condition":"==","Value":"Pensiune","Type":"select"}]},{"Show":"show","MatchType":"any","Setting":{"FieldName":"300"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Hotel","Type":"select"},{"FieldName":"316","Condition":"==","Value":"Pensiune","Type":"select"}]},{"Show":"show","MatchType":"any","Setting":{"FieldName":"320"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Restaurant","Type":"select"}]},{"Show":"show","MatchType":"any","Setting":{"FieldName":"299"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Hotel","Type":"select"},{"FieldName":"316","Condition":"==","Value":"Pensiune","Type":"select"}]},{"Show":"show","MatchType":"any","Setting":{"FieldName":"299"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Hotel","Type":"select"},{"FieldName":"316","Condition":"==","Value":"Pensiune","Type":"select"}]},{"Show":"show","MatchType":"any","Setting":{"FieldName":"301"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Hotel","Type":"select"},{"FieldName":"316","Condition":"==","Value":"Pensiune","Type":"select"}]},{"Show":"show","MatchType":"any","Setting":{"FieldName":"301"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Hotel","Type":"select"},{"FieldName":"316","Condition":"==","Value":"Pensiune","Type":"select"}]},{"Show":"show","MatchType":"any","Setting":{"FieldName":"296"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Hotel","Type":"select"},{"FieldName":"316","Condition":"==","Value":"Pensiune","Type":"select"}]},{"Show":"show","MatchType":"any","Setting":{"FieldName":"296"},"Conditions":[{"FieldName":"316","Condition":"==","Value":"Hotel","Type":"select"},{"FieldName":"316","Condition":"==","Value":"Pensiune","Type":"select"}]}]};__FRMURL='http://localhost:8888/index.php?plugin=formidable';jQuery(document).ready(function($){if($.isFunction($.on)){$(document).on('submit','.frm-show-form',function(e){e.preventDefault();if(jQuery(this).find('.wp-editor-wrap').length){tinyMCE.triggerSave();}frmGetFormErrors(this);});}else{$('.frm-show-form').live('submit',function(e){e.preventDefault();if(jQuery(this).find('.wp-editor-wrap').length){tinyMCE.triggerSave();}frmGetFormErrors(this);});}
+$('#frm_field_294_container').hide();frmCheckDependent($('#field_o3rbg1').val(),316);});</script></body></html>
